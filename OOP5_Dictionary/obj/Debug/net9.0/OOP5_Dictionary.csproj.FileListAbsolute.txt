@@ -1,0 +1,14 @@
+C:\FPT learning\net\PRN212 SE1855\OOP5_Dictionary\bin\Debug\net9.0\OOP5_Dictionary.exe
+C:\FPT learning\net\PRN212 SE1855\OOP5_Dictionary\bin\Debug\net9.0\OOP5_Dictionary.deps.json
+C:\FPT learning\net\PRN212 SE1855\OOP5_Dictionary\bin\Debug\net9.0\OOP5_Dictionary.runtimeconfig.json
+C:\FPT learning\net\PRN212 SE1855\OOP5_Dictionary\bin\Debug\net9.0\OOP5_Dictionary.dll
+C:\FPT learning\net\PRN212 SE1855\OOP5_Dictionary\bin\Debug\net9.0\OOP5_Dictionary.pdb
+C:\FPT learning\net\PRN212 SE1855\OOP5_Dictionary\obj\Debug\net9.0\OOP5_Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\FPT learning\net\PRN212 SE1855\OOP5_Dictionary\obj\Debug\net9.0\OOP5_Dictionary.AssemblyInfoInputs.cache
+C:\FPT learning\net\PRN212 SE1855\OOP5_Dictionary\obj\Debug\net9.0\OOP5_Dictionary.AssemblyInfo.cs
+C:\FPT learning\net\PRN212 SE1855\OOP5_Dictionary\obj\Debug\net9.0\OOP5_Dictionary.csproj.CoreCompileInputs.cache
+C:\FPT learning\net\PRN212 SE1855\OOP5_Dictionary\obj\Debug\net9.0\OOP5_Dictionary.dll
+C:\FPT learning\net\PRN212 SE1855\OOP5_Dictionary\obj\Debug\net9.0\refint\OOP5_Dictionary.dll
+C:\FPT learning\net\PRN212 SE1855\OOP5_Dictionary\obj\Debug\net9.0\OOP5_Dictionary.pdb
+C:\FPT learning\net\PRN212 SE1855\OOP5_Dictionary\obj\Debug\net9.0\OOP5_Dictionary.genruntimeconfig.cache
+C:\FPT learning\net\PRN212 SE1855\OOP5_Dictionary\obj\Debug\net9.0\ref\OOP5_Dictionary.dll

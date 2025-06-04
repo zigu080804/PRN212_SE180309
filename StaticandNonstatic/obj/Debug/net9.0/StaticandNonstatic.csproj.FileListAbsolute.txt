@@ -1,0 +1,4 @@
+C:\FPT learning\net\PRN212 SE1855\StaticandNonstatic\obj\Debug\net9.0\StaticandNonstatic.GeneratedMSBuildEditorConfig.editorconfig
+C:\FPT learning\net\PRN212 SE1855\StaticandNonstatic\obj\Debug\net9.0\StaticandNonstatic.AssemblyInfoInputs.cache
+C:\FPT learning\net\PRN212 SE1855\StaticandNonstatic\obj\Debug\net9.0\StaticandNonstatic.AssemblyInfo.cs
+C:\FPT learning\net\PRN212 SE1855\StaticandNonstatic\obj\Debug\net9.0\StaticandNonstatic.csproj.CoreCompileInputs.cache

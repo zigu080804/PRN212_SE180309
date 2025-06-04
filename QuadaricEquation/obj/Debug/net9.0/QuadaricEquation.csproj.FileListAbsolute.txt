@@ -1,0 +1,14 @@
+C:\FPT learning\net\PRN212 SE1855\QuadaricEquation\bin\Debug\net9.0\QuadaricEquation.exe
+C:\FPT learning\net\PRN212 SE1855\QuadaricEquation\bin\Debug\net9.0\QuadaricEquation.deps.json
+C:\FPT learning\net\PRN212 SE1855\QuadaricEquation\bin\Debug\net9.0\QuadaricEquation.runtimeconfig.json
+C:\FPT learning\net\PRN212 SE1855\QuadaricEquation\bin\Debug\net9.0\QuadaricEquation.dll
+C:\FPT learning\net\PRN212 SE1855\QuadaricEquation\bin\Debug\net9.0\QuadaricEquation.pdb
+C:\FPT learning\net\PRN212 SE1855\QuadaricEquation\obj\Debug\net9.0\QuadaricEquation.GeneratedMSBuildEditorConfig.editorconfig
+C:\FPT learning\net\PRN212 SE1855\QuadaricEquation\obj\Debug\net9.0\QuadaricEquation.AssemblyInfoInputs.cache
+C:\FPT learning\net\PRN212 SE1855\QuadaricEquation\obj\Debug\net9.0\QuadaricEquation.AssemblyInfo.cs
+C:\FPT learning\net\PRN212 SE1855\QuadaricEquation\obj\Debug\net9.0\QuadaricEquation.csproj.CoreCompileInputs.cache
+C:\FPT learning\net\PRN212 SE1855\QuadaricEquation\obj\Debug\net9.0\QuadaricEquation.dll
+C:\FPT learning\net\PRN212 SE1855\QuadaricEquation\obj\Debug\net9.0\refint\QuadaricEquation.dll
+C:\FPT learning\net\PRN212 SE1855\QuadaricEquation\obj\Debug\net9.0\QuadaricEquation.pdb
+C:\FPT learning\net\PRN212 SE1855\QuadaricEquation\obj\Debug\net9.0\QuadaricEquation.genruntimeconfig.cache
+C:\FPT learning\net\PRN212 SE1855\QuadaricEquation\obj\Debug\net9.0\ref\QuadaricEquation.dll

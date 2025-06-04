@@ -1,0 +1,14 @@
+C:\FPT learning\net\PRN212 SE1855\DemoLINQtoObject1\bin\Debug\net9.0\DemoLINQtoObject1.exe
+C:\FPT learning\net\PRN212 SE1855\DemoLINQtoObject1\bin\Debug\net9.0\DemoLINQtoObject1.deps.json
+C:\FPT learning\net\PRN212 SE1855\DemoLINQtoObject1\bin\Debug\net9.0\DemoLINQtoObject1.runtimeconfig.json
+C:\FPT learning\net\PRN212 SE1855\DemoLINQtoObject1\bin\Debug\net9.0\DemoLINQtoObject1.dll
+C:\FPT learning\net\PRN212 SE1855\DemoLINQtoObject1\bin\Debug\net9.0\DemoLINQtoObject1.pdb
+C:\FPT learning\net\PRN212 SE1855\DemoLINQtoObject1\obj\Debug\net9.0\DemoLINQtoObject1.GeneratedMSBuildEditorConfig.editorconfig
+C:\FPT learning\net\PRN212 SE1855\DemoLINQtoObject1\obj\Debug\net9.0\DemoLINQtoObject1.AssemblyInfoInputs.cache
+C:\FPT learning\net\PRN212 SE1855\DemoLINQtoObject1\obj\Debug\net9.0\DemoLINQtoObject1.AssemblyInfo.cs
+C:\FPT learning\net\PRN212 SE1855\DemoLINQtoObject1\obj\Debug\net9.0\DemoLINQtoObject1.csproj.CoreCompileInputs.cache
+C:\FPT learning\net\PRN212 SE1855\DemoLINQtoObject1\obj\Debug\net9.0\DemoLINQtoObject1.dll
+C:\FPT learning\net\PRN212 SE1855\DemoLINQtoObject1\obj\Debug\net9.0\refint\DemoLINQtoObject1.dll
+C:\FPT learning\net\PRN212 SE1855\DemoLINQtoObject1\obj\Debug\net9.0\DemoLINQtoObject1.pdb
+C:\FPT learning\net\PRN212 SE1855\DemoLINQtoObject1\obj\Debug\net9.0\DemoLINQtoObject1.genruntimeconfig.cache
+C:\FPT learning\net\PRN212 SE1855\DemoLINQtoObject1\obj\Debug\net9.0\ref\DemoLINQtoObject1.dll

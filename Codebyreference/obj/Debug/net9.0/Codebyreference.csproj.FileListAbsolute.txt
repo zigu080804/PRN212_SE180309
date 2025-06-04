@@ -1,0 +1,14 @@
+C:\FPT learning\net\PRN212 SE1855\Codebyreference\bin\Debug\net9.0\Codebyreference.exe
+C:\FPT learning\net\PRN212 SE1855\Codebyreference\bin\Debug\net9.0\Codebyreference.deps.json
+C:\FPT learning\net\PRN212 SE1855\Codebyreference\bin\Debug\net9.0\Codebyreference.runtimeconfig.json
+C:\FPT learning\net\PRN212 SE1855\Codebyreference\bin\Debug\net9.0\Codebyreference.dll
+C:\FPT learning\net\PRN212 SE1855\Codebyreference\bin\Debug\net9.0\Codebyreference.pdb
+C:\FPT learning\net\PRN212 SE1855\Codebyreference\obj\Debug\net9.0\Codebyreference.GeneratedMSBuildEditorConfig.editorconfig
+C:\FPT learning\net\PRN212 SE1855\Codebyreference\obj\Debug\net9.0\Codebyreference.AssemblyInfoInputs.cache
+C:\FPT learning\net\PRN212 SE1855\Codebyreference\obj\Debug\net9.0\Codebyreference.AssemblyInfo.cs
+C:\FPT learning\net\PRN212 SE1855\Codebyreference\obj\Debug\net9.0\Codebyreference.csproj.CoreCompileInputs.cache
+C:\FPT learning\net\PRN212 SE1855\Codebyreference\obj\Debug\net9.0\Codebyreference.dll
+C:\FPT learning\net\PRN212 SE1855\Codebyreference\obj\Debug\net9.0\refint\Codebyreference.dll
+C:\FPT learning\net\PRN212 SE1855\Codebyreference\obj\Debug\net9.0\Codebyreference.pdb
+C:\FPT learning\net\PRN212 SE1855\Codebyreference\obj\Debug\net9.0\Codebyreference.genruntimeconfig.cache
+C:\FPT learning\net\PRN212 SE1855\Codebyreference\obj\Debug\net9.0\ref\Codebyreference.dll

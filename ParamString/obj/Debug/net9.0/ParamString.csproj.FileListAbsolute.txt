@@ -1,0 +1,14 @@
+C:\FPT learning\net\PRN212 SE1855\ParamString\bin\Debug\net9.0\ParamString.exe
+C:\FPT learning\net\PRN212 SE1855\ParamString\bin\Debug\net9.0\ParamString.deps.json
+C:\FPT learning\net\PRN212 SE1855\ParamString\bin\Debug\net9.0\ParamString.runtimeconfig.json
+C:\FPT learning\net\PRN212 SE1855\ParamString\bin\Debug\net9.0\ParamString.dll
+C:\FPT learning\net\PRN212 SE1855\ParamString\bin\Debug\net9.0\ParamString.pdb
+C:\FPT learning\net\PRN212 SE1855\ParamString\obj\Debug\net9.0\ParamString.GeneratedMSBuildEditorConfig.editorconfig
+C:\FPT learning\net\PRN212 SE1855\ParamString\obj\Debug\net9.0\ParamString.AssemblyInfoInputs.cache
+C:\FPT learning\net\PRN212 SE1855\ParamString\obj\Debug\net9.0\ParamString.AssemblyInfo.cs
+C:\FPT learning\net\PRN212 SE1855\ParamString\obj\Debug\net9.0\ParamString.csproj.CoreCompileInputs.cache
+C:\FPT learning\net\PRN212 SE1855\ParamString\obj\Debug\net9.0\ParamString.dll
+C:\FPT learning\net\PRN212 SE1855\ParamString\obj\Debug\net9.0\refint\ParamString.dll
+C:\FPT learning\net\PRN212 SE1855\ParamString\obj\Debug\net9.0\ParamString.pdb
+C:\FPT learning\net\PRN212 SE1855\ParamString\obj\Debug\net9.0\ParamString.genruntimeconfig.cache
+C:\FPT learning\net\PRN212 SE1855\ParamString\obj\Debug\net9.0\ref\ParamString.dll

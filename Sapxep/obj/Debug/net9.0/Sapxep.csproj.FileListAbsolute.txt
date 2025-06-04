@@ -1,0 +1,14 @@
+C:\FPT learning\net\PRN212 SE1855\Sapxep\bin\Debug\net9.0\Sapxep.exe
+C:\FPT learning\net\PRN212 SE1855\Sapxep\bin\Debug\net9.0\Sapxep.deps.json
+C:\FPT learning\net\PRN212 SE1855\Sapxep\bin\Debug\net9.0\Sapxep.runtimeconfig.json
+C:\FPT learning\net\PRN212 SE1855\Sapxep\bin\Debug\net9.0\Sapxep.dll
+C:\FPT learning\net\PRN212 SE1855\Sapxep\bin\Debug\net9.0\Sapxep.pdb
+C:\FPT learning\net\PRN212 SE1855\Sapxep\obj\Debug\net9.0\Sapxep.GeneratedMSBuildEditorConfig.editorconfig
+C:\FPT learning\net\PRN212 SE1855\Sapxep\obj\Debug\net9.0\Sapxep.AssemblyInfoInputs.cache
+C:\FPT learning\net\PRN212 SE1855\Sapxep\obj\Debug\net9.0\Sapxep.AssemblyInfo.cs
+C:\FPT learning\net\PRN212 SE1855\Sapxep\obj\Debug\net9.0\Sapxep.csproj.CoreCompileInputs.cache
+C:\FPT learning\net\PRN212 SE1855\Sapxep\obj\Debug\net9.0\Sapxep.dll
+C:\FPT learning\net\PRN212 SE1855\Sapxep\obj\Debug\net9.0\refint\Sapxep.dll
+C:\FPT learning\net\PRN212 SE1855\Sapxep\obj\Debug\net9.0\Sapxep.pdb
+C:\FPT learning\net\PRN212 SE1855\Sapxep\obj\Debug\net9.0\Sapxep.genruntimeconfig.cache
+C:\FPT learning\net\PRN212 SE1855\Sapxep\obj\Debug\net9.0\ref\Sapxep.dll

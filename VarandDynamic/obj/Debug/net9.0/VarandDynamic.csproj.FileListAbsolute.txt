@@ -1,0 +1,14 @@
+C:\FPT learning\net\PRN212 SE1855\VarandDynamic\obj\Debug\net9.0\VarandDynamic.GeneratedMSBuildEditorConfig.editorconfig
+C:\FPT learning\net\PRN212 SE1855\VarandDynamic\obj\Debug\net9.0\VarandDynamic.AssemblyInfoInputs.cache
+C:\FPT learning\net\PRN212 SE1855\VarandDynamic\obj\Debug\net9.0\VarandDynamic.AssemblyInfo.cs
+C:\FPT learning\net\PRN212 SE1855\VarandDynamic\obj\Debug\net9.0\VarandDynamic.csproj.CoreCompileInputs.cache
+C:\FPT learning\net\PRN212 SE1855\VarandDynamic\bin\Debug\net9.0\VarandDynamic.exe
+C:\FPT learning\net\PRN212 SE1855\VarandDynamic\bin\Debug\net9.0\VarandDynamic.deps.json
+C:\FPT learning\net\PRN212 SE1855\VarandDynamic\bin\Debug\net9.0\VarandDynamic.runtimeconfig.json
+C:\FPT learning\net\PRN212 SE1855\VarandDynamic\bin\Debug\net9.0\VarandDynamic.dll
+C:\FPT learning\net\PRN212 SE1855\VarandDynamic\bin\Debug\net9.0\VarandDynamic.pdb
+C:\FPT learning\net\PRN212 SE1855\VarandDynamic\obj\Debug\net9.0\VarandDynamic.dll
+C:\FPT learning\net\PRN212 SE1855\VarandDynamic\obj\Debug\net9.0\refint\VarandDynamic.dll
+C:\FPT learning\net\PRN212 SE1855\VarandDynamic\obj\Debug\net9.0\VarandDynamic.pdb
+C:\FPT learning\net\PRN212 SE1855\VarandDynamic\obj\Debug\net9.0\VarandDynamic.genruntimeconfig.cache
+C:\FPT learning\net\PRN212 SE1855\VarandDynamic\obj\Debug\net9.0\ref\VarandDynamic.dll

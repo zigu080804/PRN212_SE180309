@@ -1,0 +1,14 @@
+C:\FPT learning\net\PRN212 SE1855\TryBathandLoop\bin\Debug\net9.0\TryBathandLoop.exe
+C:\FPT learning\net\PRN212 SE1855\TryBathandLoop\bin\Debug\net9.0\TryBathandLoop.deps.json
+C:\FPT learning\net\PRN212 SE1855\TryBathandLoop\bin\Debug\net9.0\TryBathandLoop.runtimeconfig.json
+C:\FPT learning\net\PRN212 SE1855\TryBathandLoop\bin\Debug\net9.0\TryBathandLoop.dll
+C:\FPT learning\net\PRN212 SE1855\TryBathandLoop\bin\Debug\net9.0\TryBathandLoop.pdb
+C:\FPT learning\net\PRN212 SE1855\TryBathandLoop\obj\Debug\net9.0\TryBathandLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\FPT learning\net\PRN212 SE1855\TryBathandLoop\obj\Debug\net9.0\TryBathandLoop.AssemblyInfoInputs.cache
+C:\FPT learning\net\PRN212 SE1855\TryBathandLoop\obj\Debug\net9.0\TryBathandLoop.AssemblyInfo.cs
+C:\FPT learning\net\PRN212 SE1855\TryBathandLoop\obj\Debug\net9.0\TryBathandLoop.csproj.CoreCompileInputs.cache
+C:\FPT learning\net\PRN212 SE1855\TryBathandLoop\obj\Debug\net9.0\TryBathandLoop.dll
+C:\FPT learning\net\PRN212 SE1855\TryBathandLoop\obj\Debug\net9.0\refint\TryBathandLoop.dll
+C:\FPT learning\net\PRN212 SE1855\TryBathandLoop\obj\Debug\net9.0\TryBathandLoop.pdb
+C:\FPT learning\net\PRN212 SE1855\TryBathandLoop\obj\Debug\net9.0\TryBathandLoop.genruntimeconfig.cache
+C:\FPT learning\net\PRN212 SE1855\TryBathandLoop\obj\Debug\net9.0\ref\TryBathandLoop.dll

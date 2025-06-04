@@ -1,0 +1,14 @@
+C:\FPT learning\net\PRN212 SE1855\FullStructureProject\bin\Debug\net9.0\FullStructureProject.exe
+C:\FPT learning\net\PRN212 SE1855\FullStructureProject\bin\Debug\net9.0\FullStructureProject.deps.json
+C:\FPT learning\net\PRN212 SE1855\FullStructureProject\bin\Debug\net9.0\FullStructureProject.runtimeconfig.json
+C:\FPT learning\net\PRN212 SE1855\FullStructureProject\bin\Debug\net9.0\FullStructureProject.dll
+C:\FPT learning\net\PRN212 SE1855\FullStructureProject\bin\Debug\net9.0\FullStructureProject.pdb
+C:\FPT learning\net\PRN212 SE1855\FullStructureProject\obj\Debug\net9.0\FullStructureProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\FPT learning\net\PRN212 SE1855\FullStructureProject\obj\Debug\net9.0\FullStructureProject.AssemblyInfoInputs.cache
+C:\FPT learning\net\PRN212 SE1855\FullStructureProject\obj\Debug\net9.0\FullStructureProject.AssemblyInfo.cs
+C:\FPT learning\net\PRN212 SE1855\FullStructureProject\obj\Debug\net9.0\FullStructureProject.csproj.CoreCompileInputs.cache
+C:\FPT learning\net\PRN212 SE1855\FullStructureProject\obj\Debug\net9.0\FullStructureProject.dll
+C:\FPT learning\net\PRN212 SE1855\FullStructureProject\obj\Debug\net9.0\refint\FullStructureProject.dll
+C:\FPT learning\net\PRN212 SE1855\FullStructureProject\obj\Debug\net9.0\FullStructureProject.pdb
+C:\FPT learning\net\PRN212 SE1855\FullStructureProject\obj\Debug\net9.0\FullStructureProject.genruntimeconfig.cache
+C:\FPT learning\net\PRN212 SE1855\FullStructureProject\obj\Debug\net9.0\ref\FullStructureProject.dll

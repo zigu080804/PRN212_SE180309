@@ -1,0 +1,14 @@
+C:\FPT learning\net\PRN212 SE1855\SimpleCalculation\bin\Debug\net9.0\SimpleCalculation.exe
+C:\FPT learning\net\PRN212 SE1855\SimpleCalculation\bin\Debug\net9.0\SimpleCalculation.deps.json
+C:\FPT learning\net\PRN212 SE1855\SimpleCalculation\bin\Debug\net9.0\SimpleCalculation.runtimeconfig.json
+C:\FPT learning\net\PRN212 SE1855\SimpleCalculation\bin\Debug\net9.0\SimpleCalculation.dll
+C:\FPT learning\net\PRN212 SE1855\SimpleCalculation\bin\Debug\net9.0\SimpleCalculation.pdb
+C:\FPT learning\net\PRN212 SE1855\SimpleCalculation\obj\Debug\net9.0\SimpleCalculation.GeneratedMSBuildEditorConfig.editorconfig
+C:\FPT learning\net\PRN212 SE1855\SimpleCalculation\obj\Debug\net9.0\SimpleCalculation.AssemblyInfoInputs.cache
+C:\FPT learning\net\PRN212 SE1855\SimpleCalculation\obj\Debug\net9.0\SimpleCalculation.AssemblyInfo.cs
+C:\FPT learning\net\PRN212 SE1855\SimpleCalculation\obj\Debug\net9.0\SimpleCalculation.csproj.CoreCompileInputs.cache
+C:\FPT learning\net\PRN212 SE1855\SimpleCalculation\obj\Debug\net9.0\SimpleCalculation.dll
+C:\FPT learning\net\PRN212 SE1855\SimpleCalculation\obj\Debug\net9.0\refint\SimpleCalculation.dll
+C:\FPT learning\net\PRN212 SE1855\SimpleCalculation\obj\Debug\net9.0\SimpleCalculation.pdb
+C:\FPT learning\net\PRN212 SE1855\SimpleCalculation\obj\Debug\net9.0\SimpleCalculation.genruntimeconfig.cache
+C:\FPT learning\net\PRN212 SE1855\SimpleCalculation\obj\Debug\net9.0\ref\SimpleCalculation.dll

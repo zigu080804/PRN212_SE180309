@@ -1,0 +1,14 @@
+C:\FPT learning\net\PRN212 SE1855\DemoLinQtoObject2\obj\Debug\net9.0\DemoLinQtoObject2.GeneratedMSBuildEditorConfig.editorconfig
+C:\FPT learning\net\PRN212 SE1855\DemoLinQtoObject2\obj\Debug\net9.0\DemoLinQtoObject2.AssemblyInfoInputs.cache
+C:\FPT learning\net\PRN212 SE1855\DemoLinQtoObject2\obj\Debug\net9.0\DemoLinQtoObject2.AssemblyInfo.cs
+C:\FPT learning\net\PRN212 SE1855\DemoLinQtoObject2\obj\Debug\net9.0\DemoLinQtoObject2.csproj.CoreCompileInputs.cache
+C:\FPT learning\net\PRN212 SE1855\DemoLinQtoObject2\bin\Debug\net9.0\DemoLinQtoObject2.exe
+C:\FPT learning\net\PRN212 SE1855\DemoLinQtoObject2\bin\Debug\net9.0\DemoLinQtoObject2.deps.json
+C:\FPT learning\net\PRN212 SE1855\DemoLinQtoObject2\bin\Debug\net9.0\DemoLinQtoObject2.runtimeconfig.json
+C:\FPT learning\net\PRN212 SE1855\DemoLinQtoObject2\bin\Debug\net9.0\DemoLinQtoObject2.dll
+C:\FPT learning\net\PRN212 SE1855\DemoLinQtoObject2\bin\Debug\net9.0\DemoLinQtoObject2.pdb
+C:\FPT learning\net\PRN212 SE1855\DemoLinQtoObject2\obj\Debug\net9.0\DemoLinQtoObject2.dll
+C:\FPT learning\net\PRN212 SE1855\DemoLinQtoObject2\obj\Debug\net9.0\refint\DemoLinQtoObject2.dll
+C:\FPT learning\net\PRN212 SE1855\DemoLinQtoObject2\obj\Debug\net9.0\DemoLinQtoObject2.pdb
+C:\FPT learning\net\PRN212 SE1855\DemoLinQtoObject2\obj\Debug\net9.0\DemoLinQtoObject2.genruntimeconfig.cache
+C:\FPT learning\net\PRN212 SE1855\DemoLinQtoObject2\obj\Debug\net9.0\ref\DemoLinQtoObject2.dll

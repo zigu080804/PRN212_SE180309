@@ -1,0 +1,14 @@
+C:\FPT learning\net\PRN212 SE1855\Sample\bin\Debug\net9.0\Sample.exe
+C:\FPT learning\net\PRN212 SE1855\Sample\bin\Debug\net9.0\Sample.deps.json
+C:\FPT learning\net\PRN212 SE1855\Sample\bin\Debug\net9.0\Sample.runtimeconfig.json
+C:\FPT learning\net\PRN212 SE1855\Sample\bin\Debug\net9.0\Sample.dll
+C:\FPT learning\net\PRN212 SE1855\Sample\bin\Debug\net9.0\Sample.pdb
+C:\FPT learning\net\PRN212 SE1855\Sample\obj\Debug\net9.0\Sample.GeneratedMSBuildEditorConfig.editorconfig
+C:\FPT learning\net\PRN212 SE1855\Sample\obj\Debug\net9.0\Sample.AssemblyInfoInputs.cache
+C:\FPT learning\net\PRN212 SE1855\Sample\obj\Debug\net9.0\Sample.AssemblyInfo.cs
+C:\FPT learning\net\PRN212 SE1855\Sample\obj\Debug\net9.0\Sample.csproj.CoreCompileInputs.cache
+C:\FPT learning\net\PRN212 SE1855\Sample\obj\Debug\net9.0\Sample.dll
+C:\FPT learning\net\PRN212 SE1855\Sample\obj\Debug\net9.0\refint\Sample.dll
+C:\FPT learning\net\PRN212 SE1855\Sample\obj\Debug\net9.0\Sample.pdb
+C:\FPT learning\net\PRN212 SE1855\Sample\obj\Debug\net9.0\Sample.genruntimeconfig.cache
+C:\FPT learning\net\PRN212 SE1855\Sample\obj\Debug\net9.0\ref\Sample.dll

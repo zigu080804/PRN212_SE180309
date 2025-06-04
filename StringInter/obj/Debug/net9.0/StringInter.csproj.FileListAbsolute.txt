@@ -1,0 +1,14 @@
+C:\FPT learning\net\PRN212 SE1855\StringInter\bin\Debug\net9.0\StringInter.exe
+C:\FPT learning\net\PRN212 SE1855\StringInter\bin\Debug\net9.0\StringInter.deps.json
+C:\FPT learning\net\PRN212 SE1855\StringInter\bin\Debug\net9.0\StringInter.runtimeconfig.json
+C:\FPT learning\net\PRN212 SE1855\StringInter\bin\Debug\net9.0\StringInter.dll
+C:\FPT learning\net\PRN212 SE1855\StringInter\bin\Debug\net9.0\StringInter.pdb
+C:\FPT learning\net\PRN212 SE1855\StringInter\obj\Debug\net9.0\StringInter.GeneratedMSBuildEditorConfig.editorconfig
+C:\FPT learning\net\PRN212 SE1855\StringInter\obj\Debug\net9.0\StringInter.AssemblyInfoInputs.cache
+C:\FPT learning\net\PRN212 SE1855\StringInter\obj\Debug\net9.0\StringInter.AssemblyInfo.cs
+C:\FPT learning\net\PRN212 SE1855\StringInter\obj\Debug\net9.0\StringInter.csproj.CoreCompileInputs.cache
+C:\FPT learning\net\PRN212 SE1855\StringInter\obj\Debug\net9.0\StringInter.dll
+C:\FPT learning\net\PRN212 SE1855\StringInter\obj\Debug\net9.0\refint\StringInter.dll
+C:\FPT learning\net\PRN212 SE1855\StringInter\obj\Debug\net9.0\StringInter.pdb
+C:\FPT learning\net\PRN212 SE1855\StringInter\obj\Debug\net9.0\StringInter.genruntimeconfig.cache
+C:\FPT learning\net\PRN212 SE1855\StringInter\obj\Debug\net9.0\ref\StringInter.dll

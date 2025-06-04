@@ -1,0 +1,14 @@
+C:\FPT learning\net\PRN212 SE1855\DemoDelegate\bin\Debug\net9.0\DemoDelegate.exe
+C:\FPT learning\net\PRN212 SE1855\DemoDelegate\bin\Debug\net9.0\DemoDelegate.deps.json
+C:\FPT learning\net\PRN212 SE1855\DemoDelegate\bin\Debug\net9.0\DemoDelegate.runtimeconfig.json
+C:\FPT learning\net\PRN212 SE1855\DemoDelegate\bin\Debug\net9.0\DemoDelegate.dll
+C:\FPT learning\net\PRN212 SE1855\DemoDelegate\bin\Debug\net9.0\DemoDelegate.pdb
+C:\FPT learning\net\PRN212 SE1855\DemoDelegate\obj\Debug\net9.0\DemoDelegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\FPT learning\net\PRN212 SE1855\DemoDelegate\obj\Debug\net9.0\DemoDelegate.AssemblyInfoInputs.cache
+C:\FPT learning\net\PRN212 SE1855\DemoDelegate\obj\Debug\net9.0\DemoDelegate.AssemblyInfo.cs
+C:\FPT learning\net\PRN212 SE1855\DemoDelegate\obj\Debug\net9.0\DemoDelegate.csproj.CoreCompileInputs.cache
+C:\FPT learning\net\PRN212 SE1855\DemoDelegate\obj\Debug\net9.0\DemoDelegate.dll
+C:\FPT learning\net\PRN212 SE1855\DemoDelegate\obj\Debug\net9.0\refint\DemoDelegate.dll
+C:\FPT learning\net\PRN212 SE1855\DemoDelegate\obj\Debug\net9.0\DemoDelegate.pdb
+C:\FPT learning\net\PRN212 SE1855\DemoDelegate\obj\Debug\net9.0\DemoDelegate.genruntimeconfig.cache
+C:\FPT learning\net\PRN212 SE1855\DemoDelegate\obj\Debug\net9.0\ref\DemoDelegate.dll
