@@ -1,0 +1,15 @@
+C:\FPT learning\net\PRN212 SE1855\ButtonControl_TongHop\bin\Debug\ButtonControl_TongHop.exe.config
+C:\FPT learning\net\PRN212 SE1855\ButtonControl_TongHop\bin\Debug\ButtonControl_TongHop.exe
+C:\FPT learning\net\PRN212 SE1855\ButtonControl_TongHop\bin\Debug\ButtonControl_TongHop.pdb
+C:\FPT learning\net\PRN212 SE1855\ButtonControl_TongHop\obj\Debug\ButtonControl_TongHop.csproj.AssemblyReference.cache
+C:\FPT learning\net\PRN212 SE1855\ButtonControl_TongHop\obj\Debug\MainWindow.g.cs
+C:\FPT learning\net\PRN212 SE1855\ButtonControl_TongHop\obj\Debug\App.g.cs
+C:\FPT learning\net\PRN212 SE1855\ButtonControl_TongHop\obj\Debug\ButtonControl_TongHop_MarkupCompile.cache
+C:\FPT learning\net\PRN212 SE1855\ButtonControl_TongHop\obj\Debug\ButtonControl_TongHop_MarkupCompile.lref
+C:\FPT learning\net\PRN212 SE1855\ButtonControl_TongHop\obj\Debug\MainWindow.baml
+C:\FPT learning\net\PRN212 SE1855\ButtonControl_TongHop\obj\Debug\ButtonControl_TongHop.g.resources
+C:\FPT learning\net\PRN212 SE1855\ButtonControl_TongHop\obj\Debug\ButtonControl_TongHop.Properties.Resources.resources
+C:\FPT learning\net\PRN212 SE1855\ButtonControl_TongHop\obj\Debug\ButtonControl_TongHop.csproj.GenerateResource.cache
+C:\FPT learning\net\PRN212 SE1855\ButtonControl_TongHop\obj\Debug\ButtonControl_TongHop.csproj.CoreCompileInputs.cache
+C:\FPT learning\net\PRN212 SE1855\ButtonControl_TongHop\obj\Debug\ButtonControl_TongHop.exe
+C:\FPT learning\net\PRN212 SE1855\ButtonControl_TongHop\obj\Debug\ButtonControl_TongHop.pdb

@@ -1,0 +1,17 @@
+C:\FPT learning\net\PRN212 SE1855\Hello_WPFAPP\bin\Debug\Hello_WPFAPP.exe.config
+C:\FPT learning\net\PRN212 SE1855\Hello_WPFAPP\bin\Debug\Hello_WPFAPP.exe
+C:\FPT learning\net\PRN212 SE1855\Hello_WPFAPP\bin\Debug\Hello_WPFAPP.pdb
+C:\FPT learning\net\PRN212 SE1855\Hello_WPFAPP\obj\Debug\Hello_WPFAPP.csproj.AssemblyReference.cache
+C:\FPT learning\net\PRN212 SE1855\Hello_WPFAPP\obj\Debug\MainWindow.g.cs
+C:\FPT learning\net\PRN212 SE1855\Hello_WPFAPP\obj\Debug\App.g.cs
+C:\FPT learning\net\PRN212 SE1855\Hello_WPFAPP\obj\Debug\Hello_WPFAPP_MarkupCompile.cache
+C:\FPT learning\net\PRN212 SE1855\Hello_WPFAPP\obj\Debug\Hello_WPFAPP_MarkupCompile.lref
+C:\FPT learning\net\PRN212 SE1855\Hello_WPFAPP\obj\Debug\MainWindow.baml
+C:\FPT learning\net\PRN212 SE1855\Hello_WPFAPP\obj\Debug\Hello_WPFAPP.g.resources
+C:\FPT learning\net\PRN212 SE1855\Hello_WPFAPP\obj\Debug\Hello_WPFAPP.Properties.Resources.resources
+C:\FPT learning\net\PRN212 SE1855\Hello_WPFAPP\obj\Debug\Hello_WPFAPP.csproj.GenerateResource.cache
+C:\FPT learning\net\PRN212 SE1855\Hello_WPFAPP\obj\Debug\Hello_WPFAPP.csproj.CoreCompileInputs.cache
+C:\FPT learning\net\PRN212 SE1855\Hello_WPFAPP\obj\Debug\Hello_WPFAPP.exe
+C:\FPT learning\net\PRN212 SE1855\Hello_WPFAPP\obj\Debug\Hello_WPFAPP.pdb
+C:\FPT learning\net\PRN212 SE1855\Hello_WPFAPP\obj\Debug\LoginWindow.g.cs
+C:\FPT learning\net\PRN212 SE1855\Hello_WPFAPP\obj\Debug\LoginWindow.baml
