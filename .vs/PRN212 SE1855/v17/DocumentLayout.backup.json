@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\FPT learning\\net\\PRN212 SE1855\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2E12302B-CDBA-4F17-A8D5-A8A6131251F7}|ButtonControl_TongHop\\ButtonControl_TongHop.csproj|C:\\FPT learning\\net\\PRN212 SE1855\\buttoncontrol_tonghop\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2E12302B-CDBA-4F17-A8D5-A8A6131251F7}|ButtonControl_TongHop\\ButtonControl_TongHop.csproj|solutionrelative:buttoncontrol_tonghop\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BA0FD984-4722-4EE3-B064-54B3A5F4A78E}|CheckBoxControlEvent\\CheckBoxControlEvent.csproj|C:\\FPT learning\\net\\PRN212 SE1855\\checkboxcontrolevent\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA0FD984-4722-4EE3-B064-54B3A5F4A78E}|CheckBoxControlEvent\\CheckBoxControlEvent.csproj|solutionrelative:checkboxcontrolevent\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2E12302B-CDBA-4F17-A8D5-A8A6131251F7}|ButtonControl_TongHop\\ButtonControl_TongHop.csproj|c:\\fpt learning\\net\\prn212 se1855\\buttoncontrol_tonghop\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{BA0FD984-4722-4EE3-B064-54B3A5F4A78E}|CheckBoxControlEvent\\CheckBoxControlEvent.csproj|c:\\fpt learning\\net\\prn212 se1855\\checkboxcontrolevent\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BA0FD984-4722-4EE3-B064-54B3A5F4A78E}|CheckBoxControlEvent\\CheckBoxControlEvent.csproj|solutionrelative:checkboxcontrolevent\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E12302B-CDBA-4F17-A8D5-A8A6131251F7}|ButtonControl_TongHop\\ButtonControl_TongHop.csproj|C:\\FPT learning\\net\\PRN212 SE1855\\buttoncontrol_tonghop\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{2E12302B-CDBA-4F17-A8D5-A8A6131251F7}|ButtonControl_TongHop\\ButtonControl_TongHop.csproj|solutionrelative:buttoncontrol_tonghop\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E12302B-CDBA-4F17-A8D5-A8A6131251F7}|ButtonControl_TongHop\\ButtonControl_TongHop.csproj|C:\\FPT learning\\net\\PRN212 SE1855\\buttoncontrol_tonghop\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E12302B-CDBA-4F17-A8D5-A8A6131251F7}|ButtonControl_TongHop\\ButtonControl_TongHop.csproj|solutionrelative:buttoncontrol_tonghop\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D04DC898-2FA6-4CE8-8FB8-784A24CC2C12}|Hello_WPFAPP\\Hello_WPFAPP.csproj|C:\\FPT learning\\net\\PRN212 SE1855\\hello_wpfapp\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -76,6 +84,31 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\FPT learning\\net\\PRN212 SE1855\\CheckBoxControlEvent\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "CheckBoxControlEvent\\MainWindow.xaml",
+              "ToolTip": "C:\\FPT learning\\net\\PRN212 SE1855\\CheckBoxControlEvent\\MainWindow.xaml",
+              "RelativeToolTip": "CheckBoxControlEvent\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-13T16:16:49.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\FPT learning\\net\\PRN212 SE1855\\CheckBoxControlEvent\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "CheckBoxControlEvent\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\FPT learning\\net\\PRN212 SE1855\\CheckBoxControlEvent\\MainWindow.xaml.cs*",
+              "RelativeToolTip": "CheckBoxControlEvent\\MainWindow.xaml.cs*",
+              "ViewState": "AgIAACEAAAAAAAAAAAAiwDoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T16:16:48.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\FPT learning\\net\\PRN212 SE1855\\ButtonControl_TongHop\\MainWindow.xaml",
               "RelativeDocumentMoniker": "ButtonControl_TongHop\\MainWindow.xaml",
               "ToolTip": "C:\\FPT learning\\net\\PRN212 SE1855\\ButtonControl_TongHop\\MainWindow.xaml",
@@ -86,20 +119,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\FPT learning\\net\\PRN212 SE1855\\ButtonControl_TongHop\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "ButtonControl_TongHop\\MainWindow.xaml.cs",
               "ToolTip": "C:\\FPT learning\\net\\PRN212 SE1855\\ButtonControl_TongHop\\MainWindow.xaml.cs",
               "RelativeToolTip": "ButtonControl_TongHop\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAQwCgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T04:00:50.607Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-13T04:00:50.607Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "LoginWindow.xaml.cs",
               "DocumentMoniker": "C:\\FPT learning\\net\\PRN212 SE1855\\Hello_WPFAPP\\LoginWindow.xaml.cs",
               "RelativeDocumentMoniker": "Hello_WPFAPP\\LoginWindow.xaml.cs",
@@ -111,7 +143,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "LoginWindow.xaml",
               "DocumentMoniker": "C:\\FPT learning\\net\\PRN212 SE1855\\Hello_WPFAPP\\LoginWindow.xaml",
               "RelativeDocumentMoniker": "Hello_WPFAPP\\LoginWindow.xaml",
@@ -122,7 +154,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Settings.Designer.cs",
               "DocumentMoniker": "C:\\FPT learning\\net\\PRN212 SE1855\\Hello_WPFAPP\\Properties\\Settings.Designer.cs",
               "RelativeDocumentMoniker": "Hello_WPFAPP\\Properties\\Settings.Designer.cs",
@@ -134,7 +166,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Resources.Designer.cs",
               "DocumentMoniker": "C:\\FPT learning\\net\\PRN212 SE1855\\Hello_WPFAPP\\Properties\\Resources.Designer.cs",
               "RelativeDocumentMoniker": "Hello_WPFAPP\\Properties\\Resources.Designer.cs",
@@ -146,7 +178,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "AssemblyInfo.cs",
               "DocumentMoniker": "C:\\FPT learning\\net\\PRN212 SE1855\\Hello_WPFAPP\\Properties\\AssemblyInfo.cs",
               "RelativeDocumentMoniker": "Hello_WPFAPP\\Properties\\AssemblyInfo.cs",
@@ -158,7 +190,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\FPT learning\\net\\PRN212 SE1855\\Hello_WPFAPP\\MainWindow.xaml",
               "RelativeDocumentMoniker": "Hello_WPFAPP\\MainWindow.xaml",
@@ -169,7 +201,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "App.xaml",
               "DocumentMoniker": "C:\\FPT learning\\net\\PRN212 SE1855\\Hello_WPFAPP\\App.xaml",
               "RelativeDocumentMoniker": "Hello_WPFAPP\\App.xaml",
