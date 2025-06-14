@@ -1,0 +1,36 @@
+﻿<Window x:Class="CheckBoxControlEvent.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CheckBoxControlEvent"
+        mc:Ignorable="d"
+        Title="CheckBox Sự Kiện" Height="200" Width="300">
+    <StackPanel>
+        <Label>Bạn thích những gì ?</Label>
+        <CheckBox x:Name="chkToanBo" 
+                  Checked="chkToanBo_Checked" 
+                  Unchecked="chkToanBo_Unchecked">
+            Thích toàn bộ hoạt động</CheckBox>
+        <StackPanel Margin="20,0">
+            <CheckBox x:Name="chkCongNghe"
+                  Checked="chkSub_CheckedChanged" 
+                  Unchecked="chkSub_CheckedChanged">
+                Thích Nghiên cứu công nghệ</CheckBox>
+            <CheckBox x:Name="chkDulich"
+                      Checked="chkSub_CheckedChanged"  
+                      Unchecked="chkSub_CheckedChanged">
+                Thích đi du lịch</CheckBox>
+            <CheckBox Name="chkDaBong"
+                      Checked="chkSub_CheckedChanged"
+                      Unchecked="chkSub_CheckedChanged">
+                Thích đá bóng
+            </CheckBox>
+            <CheckBox Name="chkXemPhim"
+                      Checked="chkSub_CheckedChanged"
+                      Unchecked="chkSub_CheckedChanged">
+                Thích xem phim
+            </CheckBox>
+        </StackPanel>
+    </StackPanel>
+</Window>

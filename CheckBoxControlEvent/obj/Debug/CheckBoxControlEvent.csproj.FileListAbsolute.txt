@@ -1,0 +1,15 @@
+C:\FPT learning\net\PRN212 SE1855\CheckBoxControlEvent\obj\Debug\CheckBoxControlEvent.csproj.AssemblyReference.cache
+C:\FPT learning\net\PRN212 SE1855\CheckBoxControlEvent\obj\Debug\MainWindow.g.cs
+C:\FPT learning\net\PRN212 SE1855\CheckBoxControlEvent\obj\Debug\App.g.cs
+C:\FPT learning\net\PRN212 SE1855\CheckBoxControlEvent\obj\Debug\CheckBoxControlEvent_MarkupCompile.cache
+C:\FPT learning\net\PRN212 SE1855\CheckBoxControlEvent\obj\Debug\CheckBoxControlEvent_MarkupCompile.lref
+C:\FPT learning\net\PRN212 SE1855\CheckBoxControlEvent\bin\Debug\CheckBoxControlEvent.exe.config
+C:\FPT learning\net\PRN212 SE1855\CheckBoxControlEvent\bin\Debug\CheckBoxControlEvent.exe
+C:\FPT learning\net\PRN212 SE1855\CheckBoxControlEvent\bin\Debug\CheckBoxControlEvent.pdb
+C:\FPT learning\net\PRN212 SE1855\CheckBoxControlEvent\obj\Debug\MainWindow.baml
+C:\FPT learning\net\PRN212 SE1855\CheckBoxControlEvent\obj\Debug\CheckBoxControlEvent.g.resources
+C:\FPT learning\net\PRN212 SE1855\CheckBoxControlEvent\obj\Debug\CheckBoxControlEvent.Properties.Resources.resources
+C:\FPT learning\net\PRN212 SE1855\CheckBoxControlEvent\obj\Debug\CheckBoxControlEvent.csproj.GenerateResource.cache
+C:\FPT learning\net\PRN212 SE1855\CheckBoxControlEvent\obj\Debug\CheckBoxControlEvent.csproj.CoreCompileInputs.cache
+C:\FPT learning\net\PRN212 SE1855\CheckBoxControlEvent\obj\Debug\CheckBoxControlEvent.exe
+C:\FPT learning\net\PRN212 SE1855\CheckBoxControlEvent\obj\Debug\CheckBoxControlEvent.pdb
