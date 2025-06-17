@@ -1,0 +1,43 @@
+﻿<Window x:Class="XuLyChuoiWPF1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:XuLyChuoiWPF"
+        mc:Ignorable="d"
+        Title="Xử Lý Chuỗi" Height="450" Width="800">
+    <StackPanel Orientation="Vertical">
+        <UniformGrid Rows="1" Columns="2" Margin="5">
+            <GroupBox Header="Nhập dữ liệu">
+                <TextBox x:Name="txtNhap" Height="100"
+                         Background="Yellow" TextWrapping="Wrap"
+                         ></TextBox>
+            </GroupBox>
+            <GroupBox Header="Xuất dữ liệu">
+                <TextBox Name="txtXuat" Height="100"
+                         Background="Yellow" TextWrapping="Wrap"></TextBox>
+            </GroupBox>
+        </UniformGrid>
+        <UniformGrid Rows="4" Columns="2" Margin="5">
+            <Button Name="btnNhap" Content="Nhập liệu"
+                    FontSize="30" Margin="5" Click="btnNhap_Click"></Button>
+            <Button Name="btnDem" Content="Đếm số kí tự hoa"
+                    FontSize="30" Margin="5" Click="btnDem_Click"></Button>
+            <Button Name="btnIn" Content="In chữ hoa"
+                    FontSize="30" Margin="5" Click="btnIn_Click"></Button>
+            <Button Name="btnInso" Content="In số mỗi dòng"
+                    FontSize="30" Margin="5" Click="btnInso_Click"></Button>
+            <Button Name="btnInthuong" Content="In chữ thường"
+                    FontSize="30" Margin="5" Click="btnInthuong_Click"></Button>
+            <Button Name="btnDemso" Content="Đếm số từ"
+                    FontSize="30" Margin="5" Click="btnDemso_Click"></Button>
+            <Button Name="btnDemkitu" Content="Đếm số kí tự thường"
+                    FontSize="30" Margin="5" Click="btnDemkitu_Click"></Button>
+            <Button Name="btnInna" Content="In nguyên âm phụ âm"
+                    FontSize="30" Margin="5" Click="btnInna_Click"></Button>
+        </UniformGrid>
+        <Button Name="btnFinish" FontSize="30" Margin="5" Click="btnFinish_Click">Kết thúc</Button>
+    </StackPanel>
+
+
+</Window>

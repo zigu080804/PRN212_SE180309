@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lucy_SalesManagement")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+534876cc3bb88d94de4f6eff3726af8b481f7f61")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+92ff4813794f5cef21346093363816533211cc61")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lucy_SalesManagement")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lucy_SalesManagement")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

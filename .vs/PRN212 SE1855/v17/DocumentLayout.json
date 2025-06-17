@@ -3,48 +3,36 @@
   "WorkspaceRootPath": "C:\\FPT learning\\net\\PRN212 SE1855\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BA0FD984-4722-4EE3-B064-54B3A5F4A78E}|CheckBoxControlEvent\\CheckBoxControlEvent.csproj|c:\\fpt learning\\net\\prn212 se1855\\checkboxcontrolevent\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{BA0FD984-4722-4EE3-B064-54B3A5F4A78E}|CheckBoxControlEvent\\CheckBoxControlEvent.csproj|solutionrelative:checkboxcontrolevent\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{12F8C5AC-50BA-429D-B47B-2729A3AA31B9}|RadioButtonControl1\\RadioButtonControl1.csproj|c:\\fpt learning\\net\\prn212 se1855\\radiobuttoncontrol1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12F8C5AC-50BA-429D-B47B-2729A3AA31B9}|RadioButtonControl1\\RadioButtonControl1.csproj|solutionrelative:radiobuttoncontrol1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BA0FD984-4722-4EE3-B064-54B3A5F4A78E}|CheckBoxControlEvent\\CheckBoxControlEvent.csproj|C:\\FPT learning\\net\\PRN212 SE1855\\checkboxcontrolevent\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BA0FD984-4722-4EE3-B064-54B3A5F4A78E}|CheckBoxControlEvent\\CheckBoxControlEvent.csproj|solutionrelative:checkboxcontrolevent\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{12F8C5AC-50BA-429D-B47B-2729A3AA31B9}|RadioButtonControl1\\RadioButtonControl1.csproj|c:\\fpt learning\\net\\prn212 se1855\\radiobuttoncontrol1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{12F8C5AC-50BA-429D-B47B-2729A3AA31B9}|RadioButtonControl1\\RadioButtonControl1.csproj|solutionrelative:radiobuttoncontrol1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2E12302B-CDBA-4F17-A8D5-A8A6131251F7}|ButtonControl_TongHop\\ButtonControl_TongHop.csproj|C:\\FPT learning\\net\\PRN212 SE1855\\buttoncontrol_tonghop\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{24426C7E-669F-4EF4-A8CC-D9FF245FDA89}|XuLyChuoiWPF1\\XuLyChuoiWPF1.csproj|c:\\fpt learning\\net\\prn212 se1855\\xulychuoiwpf1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{24426C7E-669F-4EF4-A8CC-D9FF245FDA89}|XuLyChuoiWPF1\\XuLyChuoiWPF1.csproj|solutionrelative:xulychuoiwpf1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6A82E32-92FB-4357-8BA3-C1F3FB19DEB9}|DemoLNQ2Object\\DemoLNQ2SQL.csproj|c:\\fpt learning\\net\\prn212 se1855\\demolnq2object\\mystore.dbml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A6A82E32-92FB-4357-8BA3-C1F3FB19DEB9}|DemoLNQ2Object\\DemoLNQ2SQL.csproj|solutionrelative:demolnq2object\\mystore.dbml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24426C7E-669F-4EF4-A8CC-D9FF245FDA89}|XuLyChuoiWPF1\\XuLyChuoiWPF1.csproj|c:\\fpt learning\\net\\prn212 se1855\\xulychuoiwpf1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24426C7E-669F-4EF4-A8CC-D9FF245FDA89}|XuLyChuoiWPF1\\XuLyChuoiWPF1.csproj|solutionrelative:xulychuoiwpf1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E12302B-CDBA-4F17-A8D5-A8A6131251F7}|ButtonControl_TongHop\\ButtonControl_TongHop.csproj|c:\\fpt learning\\net\\prn212 se1855\\buttoncontrol_tonghop\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{2E12302B-CDBA-4F17-A8D5-A8A6131251F7}|ButtonControl_TongHop\\ButtonControl_TongHop.csproj|solutionrelative:buttoncontrol_tonghop\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2E12302B-CDBA-4F17-A8D5-A8A6131251F7}|ButtonControl_TongHop\\ButtonControl_TongHop.csproj|C:\\FPT learning\\net\\PRN212 SE1855\\buttoncontrol_tonghop\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2E12302B-CDBA-4F17-A8D5-A8A6131251F7}|ButtonControl_TongHop\\ButtonControl_TongHop.csproj|solutionrelative:buttoncontrol_tonghop\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CCD36E85-F95A-4C3E-B433-8C2FD7BE6BC2}|OOP_1\\OOP_1.csproj|c:\\fpt learning\\net\\prn212 se1855\\oop_1\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCD36E85-F95A-4C3E-B433-8C2FD7BE6BC2}|OOP_1\\OOP_1.csproj|solutionrelative:oop_1\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D04DC898-2FA6-4CE8-8FB8-784A24CC2C12}|Hello_WPFAPP\\Hello_WPFAPP.csproj|C:\\FPT learning\\net\\PRN212 SE1855\\hello_wpfapp\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{D04DC898-2FA6-4CE8-8FB8-784A24CC2C12}|Hello_WPFAPP\\Hello_WPFAPP.csproj|solutionrelative:hello_wpfapp\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D04DC898-2FA6-4CE8-8FB8-784A24CC2C12}|Hello_WPFAPP\\Hello_WPFAPP.csproj|C:\\FPT learning\\net\\PRN212 SE1855\\hello_wpfapp\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D04DC898-2FA6-4CE8-8FB8-784A24CC2C12}|Hello_WPFAPP\\Hello_WPFAPP.csproj|solutionrelative:hello_wpfapp\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D04DC898-2FA6-4CE8-8FB8-784A24CC2C12}|Hello_WPFAPP\\Hello_WPFAPP.csproj|C:\\FPT learning\\net\\PRN212 SE1855\\hello_wpfapp\\properties\\settings.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D04DC898-2FA6-4CE8-8FB8-784A24CC2C12}|Hello_WPFAPP\\Hello_WPFAPP.csproj|solutionrelative:hello_wpfapp\\properties\\settings.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D04DC898-2FA6-4CE8-8FB8-784A24CC2C12}|Hello_WPFAPP\\Hello_WPFAPP.csproj|C:\\FPT learning\\net\\PRN212 SE1855\\hello_wpfapp\\properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D04DC898-2FA6-4CE8-8FB8-784A24CC2C12}|Hello_WPFAPP\\Hello_WPFAPP.csproj|solutionrelative:hello_wpfapp\\properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D04DC898-2FA6-4CE8-8FB8-784A24CC2C12}|Hello_WPFAPP\\Hello_WPFAPP.csproj|C:\\FPT learning\\net\\PRN212 SE1855\\hello_wpfapp\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D04DC898-2FA6-4CE8-8FB8-784A24CC2C12}|Hello_WPFAPP\\Hello_WPFAPP.csproj|solutionrelative:hello_wpfapp\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D04DC898-2FA6-4CE8-8FB8-784A24CC2C12}|Hello_WPFAPP\\Hello_WPFAPP.csproj|C:\\FPT learning\\net\\PRN212 SE1855\\hello_wpfapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{D04DC898-2FA6-4CE8-8FB8-784A24CC2C12}|Hello_WPFAPP\\Hello_WPFAPP.csproj|solutionrelative:hello_wpfapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D04DC898-2FA6-4CE8-8FB8-784A24CC2C12}|Hello_WPFAPP\\Hello_WPFAPP.csproj|C:\\FPT learning\\net\\PRN212 SE1855\\hello_wpfapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{D04DC898-2FA6-4CE8-8FB8-784A24CC2C12}|Hello_WPFAPP\\Hello_WPFAPP.csproj|solutionrelative:hello_wpfapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{BA0FD984-4722-4EE3-B064-54B3A5F4A78E}|CheckBoxControlEvent\\CheckBoxControlEvent.csproj|c:\\fpt learning\\net\\prn212 se1855\\checkboxcontrolevent\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BA0FD984-4722-4EE3-B064-54B3A5F4A78E}|CheckBoxControlEvent\\CheckBoxControlEvent.csproj|solutionrelative:checkboxcontrolevent\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -82,133 +70,103 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\FPT learning\\net\\PRN212 SE1855\\CheckBoxControlEvent\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "CheckBoxControlEvent\\MainWindow.xaml",
-              "ToolTip": "C:\\FPT learning\\net\\PRN212 SE1855\\CheckBoxControlEvent\\MainWindow.xaml*",
-              "RelativeToolTip": "CheckBoxControlEvent\\MainWindow.xaml*",
+              "DocumentMoniker": "C:\\FPT learning\\net\\PRN212 SE1855\\RadioButtonControl1\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "RadioButtonControl1\\MainWindow.xaml",
+              "ToolTip": "C:\\FPT learning\\net\\PRN212 SE1855\\RadioButtonControl1\\MainWindow.xaml",
+              "RelativeToolTip": "RadioButtonControl1\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-06-13T16:16:49.632Z",
+              "WhenOpened": "2025-06-17T03:03:15.907Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\FPT learning\\net\\PRN212 SE1855\\CheckBoxControlEvent\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "CheckBoxControlEvent\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\FPT learning\\net\\PRN212 SE1855\\CheckBoxControlEvent\\MainWindow.xaml.cs*",
-              "RelativeToolTip": "CheckBoxControlEvent\\MainWindow.xaml.cs*",
-              "ViewState": "AgIAABQAAAAAAAAAAAAswDUAAAA0AAAAAAAAAA==",
+              "DocumentMoniker": "C:\\FPT learning\\net\\PRN212 SE1855\\RadioButtonControl1\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "RadioButtonControl1\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\FPT learning\\net\\PRN212 SE1855\\RadioButtonControl1\\MainWindow.xaml.cs",
+              "RelativeToolTip": "RadioButtonControl1\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAwEAAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T16:16:48.545Z",
+              "WhenOpened": "2025-06-17T03:03:15.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MyStore.dbml",
+              "DocumentMoniker": "C:\\FPT learning\\net\\PRN212 SE1855\\DemoLNQ2Object\\MyStore.dbml",
+              "RelativeDocumentMoniker": "DemoLNQ2Object\\MyStore.dbml",
+              "ToolTip": "C:\\FPT learning\\net\\PRN212 SE1855\\DemoLNQ2Object\\MyStore.dbml",
+              "RelativeToolTip": "DemoLNQ2Object\\MyStore.dbml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001722|",
+              "WhenOpened": "2025-06-17T03:02:21.169Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\FPT learning\\net\\PRN212 SE1855\\XuLyChuoiWPF1\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "XuLyChuoiWPF1\\MainWindow.xaml",
+              "ToolTip": "C:\\FPT learning\\net\\PRN212 SE1855\\XuLyChuoiWPF1\\MainWindow.xaml",
+              "RelativeToolTip": "XuLyChuoiWPF1\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-17T03:01:48.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\FPT learning\\net\\PRN212 SE1855\\XuLyChuoiWPF1\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "XuLyChuoiWPF1\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\FPT learning\\net\\PRN212 SE1855\\XuLyChuoiWPF1\\MainWindow.xaml.cs",
+              "RelativeToolTip": "XuLyChuoiWPF1\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T03:01:47.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\FPT learning\\net\\PRN212 SE1855\\ButtonControl_TongHop\\MainWindow.xaml",
               "RelativeDocumentMoniker": "ButtonControl_TongHop\\MainWindow.xaml",
               "ToolTip": "C:\\FPT learning\\net\\PRN212 SE1855\\ButtonControl_TongHop\\MainWindow.xaml",
               "RelativeToolTip": "ButtonControl_TongHop\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-06-13T04:00:51Z",
+              "WhenOpened": "2025-06-17T02:46:05.946Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\FPT learning\\net\\PRN212 SE1855\\ButtonControl_TongHop\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "ButtonControl_TongHop\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\FPT learning\\net\\PRN212 SE1855\\ButtonControl_TongHop\\MainWindow.xaml.cs",
-              "RelativeToolTip": "ButtonControl_TongHop\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAQwCgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T04:00:50.607Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "LoginWindow.xaml.cs",
-              "DocumentMoniker": "C:\\FPT learning\\net\\PRN212 SE1855\\Hello_WPFAPP\\LoginWindow.xaml.cs",
-              "RelativeDocumentMoniker": "Hello_WPFAPP\\LoginWindow.xaml.cs",
-              "ToolTip": "C:\\FPT learning\\net\\PRN212 SE1855\\Hello_WPFAPP\\LoginWindow.xaml.cs",
-              "RelativeToolTip": "Hello_WPFAPP\\LoginWindow.xaml.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAiwC8AAABAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T03:37:27.016Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "LoginWindow.xaml",
-              "DocumentMoniker": "C:\\FPT learning\\net\\PRN212 SE1855\\Hello_WPFAPP\\LoginWindow.xaml",
-              "RelativeDocumentMoniker": "Hello_WPFAPP\\LoginWindow.xaml",
-              "ToolTip": "C:\\FPT learning\\net\\PRN212 SE1855\\Hello_WPFAPP\\LoginWindow.xaml",
-              "RelativeToolTip": "Hello_WPFAPP\\LoginWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-06-13T03:17:46.294Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Settings.Designer.cs",
-              "DocumentMoniker": "C:\\FPT learning\\net\\PRN212 SE1855\\Hello_WPFAPP\\Properties\\Settings.Designer.cs",
-              "RelativeDocumentMoniker": "Hello_WPFAPP\\Properties\\Settings.Designer.cs",
-              "ToolTip": "C:\\FPT learning\\net\\PRN212 SE1855\\Hello_WPFAPP\\Properties\\Settings.Designer.cs",
-              "RelativeToolTip": "Hello_WPFAPP\\Properties\\Settings.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\FPT learning\\net\\PRN212 SE1855\\OOP_1\\Customer.cs",
+              "RelativeDocumentMoniker": "OOP_1\\Customer.cs",
+              "ToolTip": "C:\\FPT learning\\net\\PRN212 SE1855\\OOP_1\\Customer.cs",
+              "RelativeToolTip": "OOP_1\\Customer.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T03:14:10.344Z"
+              "WhenOpened": "2025-06-17T02:43:30.676Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "Resources.Designer.cs",
-              "DocumentMoniker": "C:\\FPT learning\\net\\PRN212 SE1855\\Hello_WPFAPP\\Properties\\Resources.Designer.cs",
-              "RelativeDocumentMoniker": "Hello_WPFAPP\\Properties\\Resources.Designer.cs",
-              "ToolTip": "C:\\FPT learning\\net\\PRN212 SE1855\\Hello_WPFAPP\\Properties\\Resources.Designer.cs",
-              "RelativeToolTip": "Hello_WPFAPP\\Properties\\Resources.Designer.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T03:14:06.687Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "AssemblyInfo.cs",
-              "DocumentMoniker": "C:\\FPT learning\\net\\PRN212 SE1855\\Hello_WPFAPP\\Properties\\AssemblyInfo.cs",
-              "RelativeDocumentMoniker": "Hello_WPFAPP\\Properties\\AssemblyInfo.cs",
-              "ToolTip": "C:\\FPT learning\\net\\PRN212 SE1855\\Hello_WPFAPP\\Properties\\AssemblyInfo.cs",
-              "RelativeToolTip": "Hello_WPFAPP\\Properties\\AssemblyInfo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T03:12:43.03Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\FPT learning\\net\\PRN212 SE1855\\Hello_WPFAPP\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "Hello_WPFAPP\\MainWindow.xaml",
-              "ToolTip": "C:\\FPT learning\\net\\PRN212 SE1855\\Hello_WPFAPP\\MainWindow.xaml",
-              "RelativeToolTip": "Hello_WPFAPP\\MainWindow.xaml",
+              "DocumentMoniker": "C:\\FPT learning\\net\\PRN212 SE1855\\CheckBoxControlEvent\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "CheckBoxControlEvent\\MainWindow.xaml",
+              "ToolTip": "C:\\FPT learning\\net\\PRN212 SE1855\\CheckBoxControlEvent\\MainWindow.xaml",
+              "RelativeToolTip": "CheckBoxControlEvent\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-06-13T03:12:29.238Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "App.xaml",
-              "DocumentMoniker": "C:\\FPT learning\\net\\PRN212 SE1855\\Hello_WPFAPP\\App.xaml",
-              "RelativeDocumentMoniker": "Hello_WPFAPP\\App.xaml",
-              "ToolTip": "C:\\FPT learning\\net\\PRN212 SE1855\\Hello_WPFAPP\\App.xaml",
-              "RelativeToolTip": "Hello_WPFAPP\\App.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-06-13T03:12:26.535Z"
+              "WhenOpened": "2025-06-17T02:29:33.68Z",
+              "EditorCaption": ""
             }
           ]
         }

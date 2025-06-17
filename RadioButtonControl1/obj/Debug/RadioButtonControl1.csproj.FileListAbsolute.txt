@@ -1,0 +1,15 @@
+C:\FPT learning\net\PRN212 SE1855\RadioButtonControl1\bin\Debug\RadioButtonControl1.exe.config
+C:\FPT learning\net\PRN212 SE1855\RadioButtonControl1\bin\Debug\RadioButtonControl1.exe
+C:\FPT learning\net\PRN212 SE1855\RadioButtonControl1\bin\Debug\RadioButtonControl1.pdb
+C:\FPT learning\net\PRN212 SE1855\RadioButtonControl1\obj\Debug\RadioButtonControl1.csproj.AssemblyReference.cache
+C:\FPT learning\net\PRN212 SE1855\RadioButtonControl1\obj\Debug\MainWindow.g.cs
+C:\FPT learning\net\PRN212 SE1855\RadioButtonControl1\obj\Debug\App.g.cs
+C:\FPT learning\net\PRN212 SE1855\RadioButtonControl1\obj\Debug\RadioButtonControl1_MarkupCompile.cache
+C:\FPT learning\net\PRN212 SE1855\RadioButtonControl1\obj\Debug\RadioButtonControl1_MarkupCompile.lref
+C:\FPT learning\net\PRN212 SE1855\RadioButtonControl1\obj\Debug\MainWindow.baml
+C:\FPT learning\net\PRN212 SE1855\RadioButtonControl1\obj\Debug\RadioButtonControl1.g.resources
+C:\FPT learning\net\PRN212 SE1855\RadioButtonControl1\obj\Debug\RadioButtonControl1.Properties.Resources.resources
+C:\FPT learning\net\PRN212 SE1855\RadioButtonControl1\obj\Debug\RadioButtonControl1.csproj.GenerateResource.cache
+C:\FPT learning\net\PRN212 SE1855\RadioButtonControl1\obj\Debug\RadioButtonControl1.csproj.CoreCompileInputs.cache
+C:\FPT learning\net\PRN212 SE1855\RadioButtonControl1\obj\Debug\RadioButtonControl1.exe
+C:\FPT learning\net\PRN212 SE1855\RadioButtonControl1\obj\Debug\RadioButtonControl1.pdb
