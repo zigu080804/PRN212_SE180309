@@ -3,136 +3,48 @@
   "WorkspaceRootPath": "C:\\FPT learning\\net\\PRN212 SE1855\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A6A82E32-92FB-4357-8BA3-C1F3FB19DEB9}|DemoLNQ2Object\\DemoLNQ2Object.csproj|c:\\fpt learning\\net\\prn212 se1855\\demolnq2object\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A6A82E32-92FB-4357-8BA3-C1F3FB19DEB9}|DemoLNQ2Object\\DemoLNQ2Object.csproj|solutionrelative:demolnq2object\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BA0FD984-4722-4EE3-B064-54B3A5F4A78E}|CheckBoxControlEvent\\CheckBoxControlEvent.csproj|c:\\fpt learning\\net\\prn212 se1855\\checkboxcontrolevent\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BA0FD984-4722-4EE3-B064-54B3A5F4A78E}|CheckBoxControlEvent\\CheckBoxControlEvent.csproj|solutionrelative:checkboxcontrolevent\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A6A82E32-92FB-4357-8BA3-C1F3FB19DEB9}|DemoLNQ2Object\\DemoLNQ2SQL.csproj|c:\\fpt learning\\net\\prn212 se1855\\demolnq2object\\dataclasses1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A6A82E32-92FB-4357-8BA3-C1F3FB19DEB9}|DemoLNQ2Object\\DemoLNQ2SQL.csproj|solutionrelative:demolnq2object\\dataclasses1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BA0FD984-4722-4EE3-B064-54B3A5F4A78E}|CheckBoxControlEvent\\CheckBoxControlEvent.csproj|C:\\FPT learning\\net\\PRN212 SE1855\\checkboxcontrolevent\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA0FD984-4722-4EE3-B064-54B3A5F4A78E}|CheckBoxControlEvent\\CheckBoxControlEvent.csproj|solutionrelative:checkboxcontrolevent\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{572ACB4B-88C5-4972-B176-9574CDCBF3E4}|DemoDelegate\\DemoDelegate.csproj|c:\\fpt learning\\net\\prn212 se1855\\demodelegate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{572ACB4B-88C5-4972-B176-9574CDCBF3E4}|DemoDelegate\\DemoDelegate.csproj|solutionrelative:demodelegate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2E12302B-CDBA-4F17-A8D5-A8A6131251F7}|ButtonControl_TongHop\\ButtonControl_TongHop.csproj|C:\\FPT learning\\net\\PRN212 SE1855\\buttoncontrol_tonghop\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2E12302B-CDBA-4F17-A8D5-A8A6131251F7}|ButtonControl_TongHop\\ButtonControl_TongHop.csproj|solutionrelative:buttoncontrol_tonghop\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D80C61EA-EFC0-49F8-B4BA-C0A05236E2E8}|DemoLINQtoObject1\\DemoLINQtoObject1.csproj|c:\\fpt learning\\net\\prn212 se1855\\demolinqtoobject1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D80C61EA-EFC0-49F8-B4BA-C0A05236E2E8}|DemoLINQtoObject1\\DemoLINQtoObject1.csproj|solutionrelative:demolinqtoobject1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2E12302B-CDBA-4F17-A8D5-A8A6131251F7}|ButtonControl_TongHop\\ButtonControl_TongHop.csproj|C:\\FPT learning\\net\\PRN212 SE1855\\buttoncontrol_tonghop\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E12302B-CDBA-4F17-A8D5-A8A6131251F7}|ButtonControl_TongHop\\ButtonControl_TongHop.csproj|solutionrelative:buttoncontrol_tonghop\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C13983BB-A405-4EC2-9C41-70CF1D828A33}|DemoAliasAndClone\\DemoAliasAndClone.csproj|c:\\fpt learning\\net\\prn212 se1855\\demoaliasandclone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C13983BB-A405-4EC2-9C41-70CF1D828A33}|DemoAliasAndClone\\DemoAliasAndClone.csproj|solutionrelative:demoaliasandclone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D04DC898-2FA6-4CE8-8FB8-784A24CC2C12}|Hello_WPFAPP\\Hello_WPFAPP.csproj|C:\\FPT learning\\net\\PRN212 SE1855\\hello_wpfapp\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D04DC898-2FA6-4CE8-8FB8-784A24CC2C12}|Hello_WPFAPP\\Hello_WPFAPP.csproj|solutionrelative:hello_wpfapp\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{65D4B9C6-0866-427B-A9CD-3C55B0703461}|DemoLinQtoObject2\\DemoLinQtoObject2.csproj|c:\\fpt learning\\net\\prn212 se1855\\demolinqtoobject2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65D4B9C6-0866-427B-A9CD-3C55B0703461}|DemoLinQtoObject2\\DemoLinQtoObject2.csproj|solutionrelative:demolinqtoobject2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D04DC898-2FA6-4CE8-8FB8-784A24CC2C12}|Hello_WPFAPP\\Hello_WPFAPP.csproj|C:\\FPT learning\\net\\PRN212 SE1855\\hello_wpfapp\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D04DC898-2FA6-4CE8-8FB8-784A24CC2C12}|Hello_WPFAPP\\Hello_WPFAPP.csproj|solutionrelative:hello_wpfapp\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{65D4B9C6-0866-427B-A9CD-3C55B0703461}|DemoLinQtoObject2\\DemoLinQtoObject2.csproj|c:\\fpt learning\\net\\prn212 se1855\\demolinqtoobject2\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65D4B9C6-0866-427B-A9CD-3C55B0703461}|DemoLinQtoObject2\\DemoLinQtoObject2.csproj|solutionrelative:demolinqtoobject2\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D04DC898-2FA6-4CE8-8FB8-784A24CC2C12}|Hello_WPFAPP\\Hello_WPFAPP.csproj|C:\\FPT learning\\net\\PRN212 SE1855\\hello_wpfapp\\properties\\settings.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D04DC898-2FA6-4CE8-8FB8-784A24CC2C12}|Hello_WPFAPP\\Hello_WPFAPP.csproj|solutionrelative:hello_wpfapp\\properties\\settings.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{65D4B9C6-0866-427B-A9CD-3C55B0703461}|DemoLinQtoObject2\\DemoLinQtoObject2.csproj|c:\\fpt learning\\net\\prn212 se1855\\demolinqtoobject2\\listproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65D4B9C6-0866-427B-A9CD-3C55B0703461}|DemoLinQtoObject2\\DemoLinQtoObject2.csproj|solutionrelative:demolinqtoobject2\\listproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D04DC898-2FA6-4CE8-8FB8-784A24CC2C12}|Hello_WPFAPP\\Hello_WPFAPP.csproj|C:\\FPT learning\\net\\PRN212 SE1855\\hello_wpfapp\\properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D04DC898-2FA6-4CE8-8FB8-784A24CC2C12}|Hello_WPFAPP\\Hello_WPFAPP.csproj|solutionrelative:hello_wpfapp\\properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1EF2563A-58EC-4CB9-8E52-8C223953B686}|DemoAlias\\DemoAlias.csproj|c:\\fpt learning\\net\\prn212 se1855\\demoalias\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1EF2563A-58EC-4CB9-8E52-8C223953B686}|DemoAlias\\DemoAlias.csproj|solutionrelative:demoalias\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D04DC898-2FA6-4CE8-8FB8-784A24CC2C12}|Hello_WPFAPP\\Hello_WPFAPP.csproj|C:\\FPT learning\\net\\PRN212 SE1855\\hello_wpfapp\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D04DC898-2FA6-4CE8-8FB8-784A24CC2C12}|Hello_WPFAPP\\Hello_WPFAPP.csproj|solutionrelative:hello_wpfapp\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{65D4B9C6-0866-427B-A9CD-3C55B0703461}|DemoLinQtoObject2\\DemoLinQtoObject2.csproj|c:\\fpt learning\\net\\prn212 se1855\\demolinqtoobject2\\demolinqtoobject2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{65D4B9C6-0866-427B-A9CD-3C55B0703461}|DemoLinQtoObject2\\DemoLinQtoObject2.csproj|solutionrelative:demolinqtoobject2\\demolinqtoobject2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{D04DC898-2FA6-4CE8-8FB8-784A24CC2C12}|Hello_WPFAPP\\Hello_WPFAPP.csproj|C:\\FPT learning\\net\\PRN212 SE1855\\hello_wpfapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D04DC898-2FA6-4CE8-8FB8-784A24CC2C12}|Hello_WPFAPP\\Hello_WPFAPP.csproj|solutionrelative:hello_wpfapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5C1C5B9B-BEFD-47A4-B58A-9E278C02B62D}|OOP5_Dictionary\\OOP5_Dictionary.csproj|c:\\fpt learning\\net\\prn212 se1855\\oop5_dictionary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C1C5B9B-BEFD-47A4-B58A-9E278C02B62D}|OOP5_Dictionary\\OOP5_Dictionary.csproj|solutionrelative:oop5_dictionary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C1C5B9B-BEFD-47A4-B58A-9E278C02B62D}|OOP5_Dictionary\\OOP5_Dictionary.csproj|c:\\fpt learning\\net\\prn212 se1855\\oop5_dictionary\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C1C5B9B-BEFD-47A4-B58A-9E278C02B62D}|OOP5_Dictionary\\OOP5_Dictionary.csproj|solutionrelative:oop5_dictionary\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C1C5B9B-BEFD-47A4-B58A-9E278C02B62D}|OOP5_Dictionary\\OOP5_Dictionary.csproj|c:\\fpt learning\\net\\prn212 se1855\\oop5_dictionary\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C1C5B9B-BEFD-47A4-B58A-9E278C02B62D}|OOP5_Dictionary\\OOP5_Dictionary.csproj|solutionrelative:oop5_dictionary\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A399F0E6-BFE7-4856-B29A-5E5046D993BC}|OOP3\\OOP3.csproj|c:\\fpt learning\\net\\prn212 se1855\\oop3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A399F0E6-BFE7-4856-B29A-5E5046D993BC}|OOP3\\OOP3.csproj|solutionrelative:oop3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A399F0E6-BFE7-4856-B29A-5E5046D993BC}|OOP3\\OOP3.csproj|c:\\fpt learning\\net\\prn212 se1855\\oop3\\myutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A399F0E6-BFE7-4856-B29A-5E5046D993BC}|OOP3\\OOP3.csproj|solutionrelative:oop3\\myutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{40C8ADED-724B-4D08-A646-26A5D5FB97AE}|OOP2\\OOP2.csproj|c:\\fpt learning\\net\\prn212 se1855\\oop2\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{40C8ADED-724B-4D08-A646-26A5D5FB97AE}|OOP2\\OOP2.csproj|solutionrelative:oop2\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{40C8ADED-724B-4D08-A646-26A5D5FB97AE}|OOP2\\OOP2.csproj|c:\\fpt learning\\net\\prn212 se1855\\oop2\\parttimeemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{40C8ADED-724B-4D08-A646-26A5D5FB97AE}|OOP2\\OOP2.csproj|solutionrelative:oop2\\parttimeemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{40C8ADED-724B-4D08-A646-26A5D5FB97AE}|OOP2\\OOP2.csproj|c:\\fpt learning\\net\\prn212 se1855\\oop2\\fulltimeemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{40C8ADED-724B-4D08-A646-26A5D5FB97AE}|OOP2\\OOP2.csproj|solutionrelative:oop2\\fulltimeemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{40C8ADED-724B-4D08-A646-26A5D5FB97AE}|OOP2\\OOP2.csproj|c:\\fpt learning\\net\\prn212 se1855\\oop2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{40C8ADED-724B-4D08-A646-26A5D5FB97AE}|OOP2\\OOP2.csproj|solutionrelative:oop2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D0408841-645E-4E32-AA11-B1C0790F06A4}|OOP2_Reuse_As_Library\\OOP2_Reuse_As_Library.csproj|c:\\fpt learning\\net\\prn212 se1855\\oop2_reuse_as_library\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0408841-645E-4E32-AA11-B1C0790F06A4}|OOP2_Reuse_As_Library\\OOP2_Reuse_As_Library.csproj|solutionrelative:oop2_reuse_as_library\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D0408841-645E-4E32-AA11-B1C0790F06A4}|OOP2_Reuse_As_Library\\OOP2_Reuse_As_Library.csproj|c:\\fpt learning\\net\\prn212 se1855\\oop2_reuse_as_library\\yourutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0408841-645E-4E32-AA11-B1C0790F06A4}|OOP2_Reuse_As_Library\\OOP2_Reuse_As_Library.csproj|solutionrelative:oop2_reuse_as_library\\yourutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{40C8ADED-724B-4D08-A646-26A5D5FB97AE}|OOP2\\OOP2.csproj|c:\\fpt learning\\net\\prn212 se1855\\oop2\\oop2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{40C8ADED-724B-4D08-A646-26A5D5FB97AE}|OOP2\\OOP2.csproj|solutionrelative:oop2\\oop2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A6A82E32-92FB-4357-8BA3-C1F3FB19DEB9}|DemoLNQ2Object\\DemoLNQ2Object.csproj|c:\\fpt learning\\net\\prn212 se1855\\demolnq2object\\dataclasses1.dbml||{B465B5AD-8799-4507-B90A-EE29ACF36AF9}|",
-      "RelativeMoniker": "D:0:0:{A6A82E32-92FB-4357-8BA3-C1F3FB19DEB9}|DemoLNQ2Object\\DemoLNQ2Object.csproj|solutionrelative:demolnq2object\\dataclasses1.dbml||{B465B5AD-8799-4507-B90A-EE29ACF36AF9}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A6A82E32-92FB-4357-8BA3-C1F3FB19DEB9}|DemoLNQ2Object\\DemoLNQ2SQL.csproj|c:\\fpt learning\\net\\prn212 se1855\\demolnq2object\\demolnq2sql.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{A6A82E32-92FB-4357-8BA3-C1F3FB19DEB9}|DemoLNQ2Object\\DemoLNQ2SQL.csproj|solutionrelative:demolnq2object\\demolnq2sql.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1ABDAEF5-7357-F3A2-D746-AB87AAFED690}|..\\..\\FPTKy5\\PRN212\\Chapter5\\Chapter5\\BuilderPattern\\BuilderPattern.csproj|c:\\fpt learning\\fptky5\\prn212\\chapter5\\chapter5\\builderpattern\\burgerbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4249EB8A-3D4C-4402-A021-27A6AAB20909}|Codebyreference\\Codebyreference.csproj|c:\\fpt learning\\net\\prn212 se1855\\codebyreference\\codebyreference.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{4249EB8A-3D4C-4402-A021-27A6AAB20909}|Codebyreference\\Codebyreference.csproj|solutionrelative:codebyreference\\codebyreference.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1EF2563A-58EC-4CB9-8E52-8C223953B686}|DemoAlias\\DemoAlias.csproj|c:\\fpt learning\\net\\prn212 se1855\\demoalias\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1EF2563A-58EC-4CB9-8E52-8C223953B686}|DemoAlias\\DemoAlias.csproj|solutionrelative:demoalias\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C13983BB-A405-4EC2-9C41-70CF1D828A33}|DemoAliasAndClone\\DemoAliasAndClone.csproj|c:\\fpt learning\\net\\prn212 se1855\\demoaliasandclone\\demoaliasandclone.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{C13983BB-A405-4EC2-9C41-70CF1D828A33}|DemoAliasAndClone\\DemoAliasAndClone.csproj|solutionrelative:demoaliasandclone\\demoaliasandclone.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0C2A0A03-5AB1-487D-9373-154F4726A7D5}|Note\\Note.csproj|c:\\fpt learning\\net\\prn212 se1855\\note\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C2A0A03-5AB1-487D-9373-154F4726A7D5}|Note\\Note.csproj|solutionrelative:note\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E9A2F039-0DE8-4FFA-8974-DA2BD974809A}|..\\..\\FPTKy5\\PRN212\\Chapter5\\Chapter5\\SingletonPattern\\SingletonPattern.csproj|c:\\fpt learning\\fptky5\\prn212\\chapter5\\chapter5\\singletonpattern\\singleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1EF2563A-58EC-4CB9-8E52-8C223953B686}|DemoAlias\\DemoAlias.csproj|c:\\fpt learning\\net\\prn212 se1855\\demoalias\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1EF2563A-58EC-4CB9-8E52-8C223953B686}|DemoAlias\\DemoAlias.csproj|solutionrelative:demoalias\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E9A2F039-0DE8-4FFA-8974-DA2BD974809A}|..\\..\\FPTKy5\\PRN212\\Chapter5\\Chapter5\\SingletonPattern\\SingletonPattern.csproj|c:\\fpt learning\\fptky5\\prn212\\chapter5\\chapter5\\singletonpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E9A2F039-0DE8-4FFA-8974-DA2BD974809A}|..\\..\\FPTKy5\\PRN212\\Chapter5\\Chapter5\\SingletonPattern\\SingletonPattern.csproj|c:\\fpt learning\\fptky5\\prn212\\chapter5\\chapter5\\singletonpattern\\singletonpattern.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C1C5B9B-BEFD-47A4-B58A-9E278C02B62D}|OOP5_Dictionary\\OOP5_Dictionary.csproj|c:\\fpt learning\\net\\prn212 se1855\\oop5_dictionary\\oop5_dictionary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{5C1C5B9B-BEFD-47A4-B58A-9E278C02B62D}|OOP5_Dictionary\\OOP5_Dictionary.csproj|solutionrelative:oop5_dictionary\\oop5_dictionary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{D04DC898-2FA6-4CE8-8FB8-784A24CC2C12}|Hello_WPFAPP\\Hello_WPFAPP.csproj|C:\\FPT learning\\net\\PRN212 SE1855\\hello_wpfapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D04DC898-2FA6-4CE8-8FB8-784A24CC2C12}|Hello_WPFAPP\\Hello_WPFAPP.csproj|solutionrelative:hello_wpfapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -142,452 +54,161 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 13,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DataClasses1.designer.cs",
-              "DocumentMoniker": "C:\\FPT learning\\net\\PRN212 SE1855\\DemoLNQ2Object\\DataClasses1.designer.cs",
-              "RelativeDocumentMoniker": "DemoLNQ2Object\\DataClasses1.designer.cs",
-              "ToolTip": "C:\\FPT learning\\net\\PRN212 SE1855\\DemoLNQ2Object\\DataClasses1.designer.cs",
-              "RelativeToolTip": "DemoLNQ2Object\\DataClasses1.designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T14:46:54.44Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\FPT learning\\net\\PRN212 SE1855\\OOP3\\Program.cs",
-              "RelativeDocumentMoniker": "OOP3\\Program.cs",
-              "ToolTip": "C:\\FPT learning\\net\\PRN212 SE1855\\OOP3\\Program.cs",
-              "RelativeToolTip": "OOP3\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T14:43:16.946Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "MyUtils.cs",
-              "DocumentMoniker": "C:\\FPT learning\\net\\PRN212 SE1855\\OOP3\\MyUtils.cs",
-              "RelativeDocumentMoniker": "OOP3\\MyUtils.cs",
-              "ToolTip": "C:\\FPT learning\\net\\PRN212 SE1855\\OOP3\\MyUtils.cs",
-              "RelativeToolTip": "OOP3\\MyUtils.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T14:43:11.646Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\FPT learning\\net\\PRN212 SE1855\\OOP2_Reuse_As_Library\\Program.cs",
-              "RelativeDocumentMoniker": "OOP2_Reuse_As_Library\\Program.cs",
-              "ToolTip": "C:\\FPT learning\\net\\PRN212 SE1855\\OOP2_Reuse_As_Library\\Program.cs",
-              "RelativeToolTip": "OOP2_Reuse_As_Library\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T14:42:09.424Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "YourUtils.cs",
-              "DocumentMoniker": "C:\\FPT learning\\net\\PRN212 SE1855\\OOP2_Reuse_As_Library\\YourUtils.cs",
-              "RelativeDocumentMoniker": "OOP2_Reuse_As_Library\\YourUtils.cs",
-              "ToolTip": "C:\\FPT learning\\net\\PRN212 SE1855\\OOP2_Reuse_As_Library\\YourUtils.cs",
-              "RelativeToolTip": "OOP2_Reuse_As_Library\\YourUtils.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T14:42:08.688Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\FPT learning\\net\\PRN212 SE1855\\OOP2\\Program.cs",
-              "RelativeDocumentMoniker": "OOP2\\Program.cs",
-              "ToolTip": "C:\\FPT learning\\net\\PRN212 SE1855\\OOP2\\Program.cs",
-              "RelativeToolTip": "OOP2\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T14:42:00.049Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "ParttimeEmployee.cs",
-              "DocumentMoniker": "C:\\FPT learning\\net\\PRN212 SE1855\\OOP2\\ParttimeEmployee.cs",
-              "RelativeDocumentMoniker": "OOP2\\ParttimeEmployee.cs",
-              "ToolTip": "C:\\FPT learning\\net\\PRN212 SE1855\\OOP2\\ParttimeEmployee.cs",
-              "RelativeToolTip": "OOP2\\ParttimeEmployee.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T14:41:55.057Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Employee.cs",
-              "DocumentMoniker": "C:\\FPT learning\\net\\PRN212 SE1855\\OOP2\\Employee.cs",
-              "RelativeDocumentMoniker": "OOP2\\Employee.cs",
-              "ToolTip": "C:\\FPT learning\\net\\PRN212 SE1855\\OOP2\\Employee.cs",
-              "RelativeToolTip": "OOP2\\Employee.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAcwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T14:41:54.13Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "FulltimeEmployee.cs",
-              "DocumentMoniker": "C:\\FPT learning\\net\\PRN212 SE1855\\OOP2\\FulltimeEmployee.cs",
-              "RelativeDocumentMoniker": "OOP2\\FulltimeEmployee.cs",
-              "ToolTip": "C:\\FPT learning\\net\\PRN212 SE1855\\OOP2\\FulltimeEmployee.cs",
-              "RelativeToolTip": "OOP2\\FulltimeEmployee.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T14:41:53.064Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "OOP2",
-              "DocumentMoniker": "C:\\FPT learning\\net\\PRN212 SE1855\\OOP2\\OOP2.csproj",
-              "RelativeDocumentMoniker": "OOP2\\OOP2.csproj",
-              "ToolTip": "C:\\FPT learning\\net\\PRN212 SE1855\\OOP2\\OOP2.csproj",
-              "RelativeToolTip": "OOP2\\OOP2.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-04T14:41:51.356Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "DataClasses1.dbml",
-              "DocumentMoniker": "C:\\FPT learning\\net\\PRN212 SE1855\\DemoLNQ2Object\\DataClasses1.dbml",
-              "RelativeDocumentMoniker": "DemoLNQ2Object\\DataClasses1.dbml",
-              "ToolTip": "C:\\FPT learning\\net\\PRN212 SE1855\\DemoLNQ2Object\\DataClasses1.dbml",
-              "RelativeToolTip": "DemoLNQ2Object\\DataClasses1.dbml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001722|",
-              "WhenOpened": "2025-06-03T06:16:27.578Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "DemoLNQ2Object.csproj",
-              "DocumentMoniker": "C:\\FPT learning\\net\\PRN212 SE1855\\DemoLNQ2Object\\DemoLNQ2SQL.csproj",
-              "RelativeDocumentMoniker": "DemoLNQ2Object\\DemoLNQ2SQL.csproj",
-              "ToolTip": "C:\\FPT learning\\net\\PRN212 SE1855\\DemoLNQ2Object\\DemoLNQ2SQL.csproj",
-              "RelativeToolTip": "DemoLNQ2Object\\DemoLNQ2SQL.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-03T04:32:46.353Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\FPT learning\\net\\PRN212 SE1855\\DemoLNQ2Object\\Program.cs",
-              "RelativeDocumentMoniker": "DemoLNQ2Object\\Program.cs",
-              "ToolTip": "C:\\FPT learning\\net\\PRN212 SE1855\\DemoLNQ2Object\\Program.cs",
-              "RelativeToolTip": "DemoLNQ2Object\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\FPT learning\\net\\PRN212 SE1855\\CheckBoxControlEvent\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "CheckBoxControlEvent\\MainWindow.xaml",
+              "ToolTip": "C:\\FPT learning\\net\\PRN212 SE1855\\CheckBoxControlEvent\\MainWindow.xaml*",
+              "RelativeToolTip": "CheckBoxControlEvent\\MainWindow.xaml*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-13T16:16:49.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\FPT learning\\net\\PRN212 SE1855\\CheckBoxControlEvent\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "CheckBoxControlEvent\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\FPT learning\\net\\PRN212 SE1855\\CheckBoxControlEvent\\MainWindow.xaml.cs*",
+              "RelativeToolTip": "CheckBoxControlEvent\\MainWindow.xaml.cs*",
+              "ViewState": "AgIAABQAAAAAAAAAAAAswDUAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-03T04:28:03.947Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ListProduct.cs",
-              "DocumentMoniker": "C:\\FPT learning\\net\\PRN212 SE1855\\DemoLinQtoObject2\\ListProduct.cs",
-              "RelativeDocumentMoniker": "DemoLinQtoObject2\\ListProduct.cs",
-              "ToolTip": "C:\\FPT learning\\net\\PRN212 SE1855\\DemoLinQtoObject2\\ListProduct.cs",
-              "RelativeToolTip": "DemoLinQtoObject2\\ListProduct.cs",
-              "ViewState": "AgIAADAAAAAAAAAAAAAcwDoAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-03T03:51:01.177Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\FPT learning\\net\\PRN212 SE1855\\DemoLinQtoObject2\\Product.cs",
-              "RelativeDocumentMoniker": "DemoLinQtoObject2\\Product.cs",
-              "ToolTip": "C:\\FPT learning\\net\\PRN212 SE1855\\DemoLinQtoObject2\\Product.cs",
-              "RelativeToolTip": "DemoLinQtoObject2\\Product.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAowBgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-03T03:50:46.292Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "DemoLinQtoObject2.csproj",
-              "DocumentMoniker": "C:\\FPT learning\\net\\PRN212 SE1855\\DemoLinQtoObject2\\DemoLinQtoObject2.csproj",
-              "RelativeDocumentMoniker": "DemoLinQtoObject2\\DemoLinQtoObject2.csproj",
-              "ToolTip": "C:\\FPT learning\\net\\PRN212 SE1855\\DemoLinQtoObject2\\DemoLinQtoObject2.csproj",
-              "RelativeToolTip": "DemoLinQtoObject2\\DemoLinQtoObject2.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-03T03:46:17.278Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "DemoAliasAndClone.csproj",
-              "DocumentMoniker": "C:\\FPT learning\\net\\PRN212 SE1855\\DemoAliasAndClone\\DemoAliasAndClone.csproj",
-              "RelativeDocumentMoniker": "DemoAliasAndClone\\DemoAliasAndClone.csproj",
-              "ToolTip": "C:\\FPT learning\\net\\PRN212 SE1855\\DemoAliasAndClone\\DemoAliasAndClone.csproj",
-              "RelativeToolTip": "DemoAliasAndClone\\DemoAliasAndClone.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-03T03:45:56.391Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\FPT learning\\net\\PRN212 SE1855\\DemoLinQtoObject2\\Program.cs",
-              "RelativeDocumentMoniker": "DemoLinQtoObject2\\Program.cs",
-              "ToolTip": "C:\\FPT learning\\net\\PRN212 SE1855\\DemoLinQtoObject2\\Program.cs",
-              "RelativeToolTip": "DemoLinQtoObject2\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-03T03:44:28.075Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\FPT learning\\net\\PRN212 SE1855\\DemoLINQtoObject1\\Program.cs",
-              "RelativeDocumentMoniker": "DemoLINQtoObject1\\Program.cs",
-              "ToolTip": "C:\\FPT learning\\net\\PRN212 SE1855\\DemoLINQtoObject1\\Program.cs",
-              "RelativeToolTip": "DemoLINQtoObject1\\Program.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAAADkAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-03T03:26:35.334Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\FPT learning\\net\\PRN212 SE1855\\Note\\Program.cs",
-              "RelativeDocumentMoniker": "Note\\Program.cs",
-              "ToolTip": "C:\\FPT learning\\net\\PRN212 SE1855\\Note\\Program.cs",
-              "RelativeToolTip": "Note\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-03T03:23:10.122Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "Codebyreference.csproj",
-              "DocumentMoniker": "C:\\FPT learning\\net\\PRN212 SE1855\\Codebyreference\\Codebyreference.csproj",
-              "RelativeDocumentMoniker": "Codebyreference\\Codebyreference.csproj",
-              "ToolTip": "C:\\FPT learning\\net\\PRN212 SE1855\\Codebyreference\\Codebyreference.csproj",
-              "RelativeToolTip": "Codebyreference\\Codebyreference.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-03T03:19:38.185Z",
+              "WhenOpened": "2025-06-13T16:16:48.545Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\FPT learning\\net\\PRN212 SE1855\\DemoDelegate\\Program.cs",
-              "RelativeDocumentMoniker": "DemoDelegate\\Program.cs",
-              "ToolTip": "C:\\FPT learning\\net\\PRN212 SE1855\\DemoDelegate\\Program.cs",
-              "RelativeToolTip": "DemoDelegate\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-03T03:03:26.566Z",
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\FPT learning\\net\\PRN212 SE1855\\ButtonControl_TongHop\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "ButtonControl_TongHop\\MainWindow.xaml",
+              "ToolTip": "C:\\FPT learning\\net\\PRN212 SE1855\\ButtonControl_TongHop\\MainWindow.xaml",
+              "RelativeToolTip": "ButtonControl_TongHop\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-13T04:00:51Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\FPT learning\\net\\PRN212 SE1855\\DemoAlias\\Product.cs",
-              "RelativeDocumentMoniker": "DemoAlias\\Product.cs",
-              "ToolTip": "C:\\FPT learning\\net\\PRN212 SE1855\\DemoAlias\\Product.cs",
-              "RelativeToolTip": "DemoAlias\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\FPT learning\\net\\PRN212 SE1855\\ButtonControl_TongHop\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ButtonControl_TongHop\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\FPT learning\\net\\PRN212 SE1855\\ButtonControl_TongHop\\MainWindow.xaml.cs",
+              "RelativeToolTip": "ButtonControl_TongHop\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAQwCgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-03T02:39:18.763Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-13T04:00:50.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginWindow.xaml.cs",
+              "DocumentMoniker": "C:\\FPT learning\\net\\PRN212 SE1855\\Hello_WPFAPP\\LoginWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Hello_WPFAPP\\LoginWindow.xaml.cs",
+              "ToolTip": "C:\\FPT learning\\net\\PRN212 SE1855\\Hello_WPFAPP\\LoginWindow.xaml.cs",
+              "RelativeToolTip": "Hello_WPFAPP\\LoginWindow.xaml.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAiwC8AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T03:37:27.016Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\FPT learning\\net\\PRN212 SE1855\\DemoAliasAndClone\\Program.cs",
-              "RelativeDocumentMoniker": "DemoAliasAndClone\\Program.cs",
-              "ToolTip": "C:\\FPT learning\\net\\PRN212 SE1855\\DemoAliasAndClone\\Program.cs",
-              "RelativeToolTip": "DemoAliasAndClone\\Program.cs",
+              "Title": "LoginWindow.xaml",
+              "DocumentMoniker": "C:\\FPT learning\\net\\PRN212 SE1855\\Hello_WPFAPP\\LoginWindow.xaml",
+              "RelativeDocumentMoniker": "Hello_WPFAPP\\LoginWindow.xaml",
+              "ToolTip": "C:\\FPT learning\\net\\PRN212 SE1855\\Hello_WPFAPP\\LoginWindow.xaml",
+              "RelativeToolTip": "Hello_WPFAPP\\LoginWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-13T03:17:46.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Settings.Designer.cs",
+              "DocumentMoniker": "C:\\FPT learning\\net\\PRN212 SE1855\\Hello_WPFAPP\\Properties\\Settings.Designer.cs",
+              "RelativeDocumentMoniker": "Hello_WPFAPP\\Properties\\Settings.Designer.cs",
+              "ToolTip": "C:\\FPT learning\\net\\PRN212 SE1855\\Hello_WPFAPP\\Properties\\Settings.Designer.cs",
+              "RelativeToolTip": "Hello_WPFAPP\\Properties\\Settings.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-03T02:38:50.331Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-13T03:14:10.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Resources.Designer.cs",
+              "DocumentMoniker": "C:\\FPT learning\\net\\PRN212 SE1855\\Hello_WPFAPP\\Properties\\Resources.Designer.cs",
+              "RelativeDocumentMoniker": "Hello_WPFAPP\\Properties\\Resources.Designer.cs",
+              "ToolTip": "C:\\FPT learning\\net\\PRN212 SE1855\\Hello_WPFAPP\\Properties\\Resources.Designer.cs",
+              "RelativeToolTip": "Hello_WPFAPP\\Properties\\Resources.Designer.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T03:14:06.687Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "Student.cs",
-              "DocumentMoniker": "C:\\FPT learning\\net\\PRN212 SE1855\\DemoAlias\\Student.cs",
-              "RelativeDocumentMoniker": "DemoAlias\\Student.cs",
-              "ToolTip": "C:\\FPT learning\\net\\PRN212 SE1855\\DemoAlias\\Student.cs",
-              "RelativeToolTip": "DemoAlias\\Student.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-30T04:29:31.69Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\FPT learning\\net\\PRN212 SE1855\\DemoAlias\\Program.cs",
-              "RelativeDocumentMoniker": "DemoAlias\\Program.cs",
-              "ToolTip": "C:\\FPT learning\\net\\PRN212 SE1855\\DemoAlias\\Program.cs",
-              "RelativeToolTip": "DemoAlias\\Program.cs",
-              "ViewState": "AgIAAC0AAAAAAAAAAADwv0oAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-30T04:28:46.529Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "BurgerBuilder.cs",
-              "DocumentMoniker": "C:\\FPT learning\\FPTKy5\\PRN212\\Chapter5\\Chapter5\\BuilderPattern\\BurgerBuilder.cs",
-              "RelativeDocumentMoniker": "..\\..\\FPTKy5\\PRN212\\Chapter5\\Chapter5\\BuilderPattern\\BurgerBuilder.cs",
-              "ToolTip": "C:\\FPT learning\\FPTKy5\\PRN212\\Chapter5\\Chapter5\\BuilderPattern\\BurgerBuilder.cs",
-              "RelativeToolTip": "..\\..\\FPTKy5\\PRN212\\Chapter5\\Chapter5\\BuilderPattern\\BurgerBuilder.cs",
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\FPT learning\\net\\PRN212 SE1855\\Hello_WPFAPP\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Hello_WPFAPP\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\FPT learning\\net\\PRN212 SE1855\\Hello_WPFAPP\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "Hello_WPFAPP\\Properties\\AssemblyInfo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-30T04:23:21.938Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "Singleton.cs",
-              "DocumentMoniker": "C:\\FPT learning\\FPTKy5\\PRN212\\Chapter5\\Chapter5\\SingletonPattern\\Singleton.cs",
-              "RelativeDocumentMoniker": "..\\..\\FPTKy5\\PRN212\\Chapter5\\Chapter5\\SingletonPattern\\Singleton.cs",
-              "ToolTip": "C:\\FPT learning\\FPTKy5\\PRN212\\Chapter5\\Chapter5\\SingletonPattern\\Singleton.cs",
-              "RelativeToolTip": "..\\..\\FPTKy5\\PRN212\\Chapter5\\Chapter5\\SingletonPattern\\Singleton.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-30T04:17:54.818Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\FPT learning\\FPTKy5\\PRN212\\Chapter5\\Chapter5\\SingletonPattern\\Program.cs",
-              "RelativeDocumentMoniker": "..\\..\\FPTKy5\\PRN212\\Chapter5\\Chapter5\\SingletonPattern\\Program.cs",
-              "ToolTip": "C:\\FPT learning\\FPTKy5\\PRN212\\Chapter5\\Chapter5\\SingletonPattern\\Program.cs",
-              "RelativeToolTip": "..\\..\\FPTKy5\\PRN212\\Chapter5\\Chapter5\\SingletonPattern\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-30T04:17:53.784Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "SingletonPattern.csproj",
-              "DocumentMoniker": "C:\\FPT learning\\FPTKy5\\PRN212\\Chapter5\\Chapter5\\SingletonPattern\\SingletonPattern.csproj",
-              "RelativeDocumentMoniker": "..\\..\\FPTKy5\\PRN212\\Chapter5\\Chapter5\\SingletonPattern\\SingletonPattern.csproj",
-              "ToolTip": "C:\\FPT learning\\FPTKy5\\PRN212\\Chapter5\\Chapter5\\SingletonPattern\\SingletonPattern.csproj",
-              "RelativeToolTip": "..\\..\\FPTKy5\\PRN212\\Chapter5\\Chapter5\\SingletonPattern\\SingletonPattern.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-30T04:17:51.743Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "OOP5_Dictionary.csproj",
-              "DocumentMoniker": "C:\\FPT learning\\net\\PRN212 SE1855\\OOP5_Dictionary\\OOP5_Dictionary.csproj",
-              "RelativeDocumentMoniker": "OOP5_Dictionary\\OOP5_Dictionary.csproj",
-              "ToolTip": "C:\\FPT learning\\net\\PRN212 SE1855\\OOP5_Dictionary\\OOP5_Dictionary.csproj",
-              "RelativeToolTip": "OOP5_Dictionary\\OOP5_Dictionary.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-30T02:43:43.624Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Category.cs",
-              "DocumentMoniker": "C:\\FPT learning\\net\\PRN212 SE1855\\OOP5_Dictionary\\Category.cs",
-              "RelativeDocumentMoniker": "OOP5_Dictionary\\Category.cs",
-              "ToolTip": "C:\\FPT learning\\net\\PRN212 SE1855\\OOP5_Dictionary\\Category.cs",
-              "RelativeToolTip": "OOP5_Dictionary\\Category.cs",
-              "ViewState": "AgIAADcAAAAAAAAAAAAYwEYAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-30T02:43:55.131Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\FPT learning\\net\\PRN212 SE1855\\OOP5_Dictionary\\Product.cs",
-              "RelativeDocumentMoniker": "OOP5_Dictionary\\Product.cs",
-              "ToolTip": "C:\\FPT learning\\net\\PRN212 SE1855\\OOP5_Dictionary\\Product.cs",
-              "RelativeToolTip": "OOP5_Dictionary\\Product.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-30T02:41:57.709Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-13T03:12:43.03Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\FPT learning\\net\\PRN212 SE1855\\OOP5_Dictionary\\Program.cs",
-              "RelativeDocumentMoniker": "OOP5_Dictionary\\Program.cs",
-              "ToolTip": "C:\\FPT learning\\net\\PRN212 SE1855\\OOP5_Dictionary\\Program.cs",
-              "RelativeToolTip": "OOP5_Dictionary\\Program.cs",
-              "ViewState": "AgIAAIIAAAAAAAAAAAAAwIMAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-30T02:41:23.234Z",
-              "EditorCaption": ""
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\FPT learning\\net\\PRN212 SE1855\\Hello_WPFAPP\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Hello_WPFAPP\\MainWindow.xaml",
+              "ToolTip": "C:\\FPT learning\\net\\PRN212 SE1855\\Hello_WPFAPP\\MainWindow.xaml",
+              "RelativeToolTip": "Hello_WPFAPP\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-13T03:12:29.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\FPT learning\\net\\PRN212 SE1855\\Hello_WPFAPP\\App.xaml",
+              "RelativeDocumentMoniker": "Hello_WPFAPP\\App.xaml",
+              "ToolTip": "C:\\FPT learning\\net\\PRN212 SE1855\\Hello_WPFAPP\\App.xaml",
+              "RelativeToolTip": "Hello_WPFAPP\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-13T03:12:26.535Z"
             }
           ]
         }
