@@ -1,0 +1,28 @@
+﻿<Window x:Class="ListWpf.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ListWpf"
+        mc:Ignorable="d"
+        Title="Thao tác trên List" Height="380" Width="310">
+    <Grid>
+        <Button x:Name="btnThem" Content="Thêm vào List" HorizontalAlignment="Left" Margin="145,31,0,0" VerticalAlignment="Top" Width="135" Click="btnThem_Click"/>
+        <Button x:Name="btnXoanhieuphantu" Content="Xóa nhiều phần tử " HorizontalAlignment="Left" Margin="145,281,0,0" VerticalAlignment="Top" Width="135" Click="btnXoanhieuphantu_Click"/>
+        <Button x:Name="btnXoatoanbophantu" Content="Xóa toàn bộ phần tử " HorizontalAlignment="Left" Margin="145,314,0,0" VerticalAlignment="Top" Width="136" Click="btnXoatoanbophantu_Click"/>
+        <Button x:Name="btnXoa1phantu" Content="Xóa 1 phần tử" HorizontalAlignment="Left" Margin="145,248,0,0" VerticalAlignment="Top" Width="135" Click="btnXoa1phantu_Click"/>
+        <Button x:Name="btnSapXepTang" Content="Sắp xếp tăng" HorizontalAlignment="Left" Margin="145,177,0,0" VerticalAlignment="Top" Width="135" Click="btnSapXepTang_Click"/>
+        <Button x:Name="btnSapXepGiam" Content="Sắp xếp giảm" HorizontalAlignment="Left" Margin="145,215,0,0" VerticalAlignment="Top" Width="135" Click="btnSapXepGiam_Click"/>
+        <Button x:Name="btnChen" Content="Chèn" HorizontalAlignment="Left" Margin="220,147,0,0" VerticalAlignment="Top" Width="60" Click="btnChen_Click"/>
+        <TextBox x:Name="txtGiaTriChen" HorizontalAlignment="Left" Margin="185,79,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="95" Height="20"/>
+        <TextBox x:Name="txtVitriChen" HorizontalAlignment="Left" Margin="185,114,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="95" />
+        <TextBox x:Name="txtGiatri" HorizontalAlignment="Left" Margin="11,26,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="111" Height="25"/>
+        <Label Content="Vị trí:" HorizontalAlignment="Center" Margin="0,110,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.42,0.541"/>
+        <Label Content="Giá trị:" HorizontalAlignment="Center" Margin="0,76,0,0" VerticalAlignment="Top"/>
+        <ListBox x:Name="lstDuLieu" SelectionMode="Multiple"  
+           HorizontalAlignment="Left" Height="278"  
+           Margin="11,56,0,0" VerticalAlignment="Top"  
+           Width="110"/>
+
+    </Grid>
+</Window>

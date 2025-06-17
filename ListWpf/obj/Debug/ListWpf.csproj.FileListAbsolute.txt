@@ -1,0 +1,15 @@
+C:\FPT learning\net\PRN212 SE1855\ListWpf\obj\Debug\ListWpf.csproj.AssemblyReference.cache
+C:\FPT learning\net\PRN212 SE1855\ListWpf\obj\Debug\MainWindow.g.cs
+C:\FPT learning\net\PRN212 SE1855\ListWpf\obj\Debug\App.g.cs
+C:\FPT learning\net\PRN212 SE1855\ListWpf\obj\Debug\ListWpf_MarkupCompile.cache
+C:\FPT learning\net\PRN212 SE1855\ListWpf\obj\Debug\ListWpf_MarkupCompile.lref
+C:\FPT learning\net\PRN212 SE1855\ListWpf\bin\Debug\ListWpf.exe.config
+C:\FPT learning\net\PRN212 SE1855\ListWpf\bin\Debug\ListWpf.exe
+C:\FPT learning\net\PRN212 SE1855\ListWpf\bin\Debug\ListWpf.pdb
+C:\FPT learning\net\PRN212 SE1855\ListWpf\obj\Debug\MainWindow.baml
+C:\FPT learning\net\PRN212 SE1855\ListWpf\obj\Debug\ListWpf.g.resources
+C:\FPT learning\net\PRN212 SE1855\ListWpf\obj\Debug\ListWpf.Properties.Resources.resources
+C:\FPT learning\net\PRN212 SE1855\ListWpf\obj\Debug\ListWpf.csproj.GenerateResource.cache
+C:\FPT learning\net\PRN212 SE1855\ListWpf\obj\Debug\ListWpf.csproj.CoreCompileInputs.cache
+C:\FPT learning\net\PRN212 SE1855\ListWpf\obj\Debug\ListWpf.exe
+C:\FPT learning\net\PRN212 SE1855\ListWpf\obj\Debug\ListWpf.pdb
